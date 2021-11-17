@@ -1,0 +1,226 @@
+#CUI	Disease name	Drug name	DrugbankID
+C0017601	glaucoma	epinephrine	DB00668
+C0017601	glaucoma	dorzolamide	DB00869
+C0025202	melanoma	docetaxel	DB01248
+C0024117	chronic obstructive airway disease	montelukast	DB00471
+C0024117	chronic obstructive airway disease	aminophylline	DB01223
+C0024117	chronic obstructive airway disease	acetylcysteine	DB06151
+C0011581	depressive disorder	imipramine	DB00458
+C0011581	depressive disorder	aripiprazole	DB01238
+C0011581	depressive disorder	citalopram	DB00215
+C0011581	depressive disorder	valproic acid	DB00313
+C0011581	depressive disorder	amitriptyline	DB00321
+C0011581	depressive disorder	nefazodone	DB01149
+C0011581	depressive disorder	sertraline	DB01104
+C0011581	depressive disorder	paroxetine	DB00715
+C0011581	depressive disorder	nortriptyline	DB00540
+C0011581	depressive disorder	trazodone	DB00656
+C0041696	unipolar depression	imipramine	DB00458
+C0041696	unipolar depression	aripiprazole	DB01238
+C0041696	unipolar depression	citalopram	DB00215
+C0041696	unipolar depression	valproic acid	DB00313
+C0041696	unipolar depression	amitriptyline	DB00321
+C0041696	unipolar depression	nefazodone	DB01149
+C0041696	unipolar depression	sertraline	DB01104
+C0041696	unipolar depression	paroxetine	DB00715
+C0041696	unipolar depression	nortriptyline	DB00540
+C0041696	unipolar depression	trazodone	DB00656
+C1269683	major depressive disorder	imipramine	DB00458
+C1269683	major depressive disorder	aripiprazole	DB01238
+C1269683	major depressive disorder	citalopram	DB00215
+C1269683	major depressive disorder	valproic acid	DB00313
+C1269683	major depressive disorder	amitriptyline	DB00321
+C1269683	major depressive disorder	nefazodone	DB01149
+C1269683	major depressive disorder	sertraline	DB01104
+C1269683	major depressive disorder	paroxetine	DB00715
+C1269683	major depressive disorder	nortriptyline	DB00540
+C1269683	major depressive disorder	trazodone	DB00656
+C0678222	breast carcinoma	tamoxifen	DB00675
+C0678222	breast carcinoma	ixabepilone	DB04845
+C0678222	breast carcinoma	dexamethasone	DB01234
+C0678222	breast carcinoma	gemcitabine	DB00441
+C0678222	breast carcinoma	lapatinib	DB01259
+C0678222	breast carcinoma	ethinyl estradiol	DB00977
+C0678222	breast carcinoma	raloxifene	DB00481
+C0678222	breast carcinoma	eribulin	DB08871
+C0678222	breast carcinoma	paclitaxel	DB01229
+C0678222	breast carcinoma	mitoxantrone	DB01204
+C0678222	breast carcinoma	vinorelbine	DB00361
+C0678222	breast carcinoma	docetaxel	DB01248
+C0678222	breast carcinoma	estradiol	DB00783
+C0678222	breast carcinoma	vinblastine	DB00570
+C0678222	breast carcinoma	prochlorperazine	DB00433
+C0024141	lupus erythematosus, systemic	gabapentin	DB00996
+C0024141	lupus erythematosus, systemic	cyclosporine	DB00091
+C0024141	lupus erythematosus, systemic	dexamethasone	DB01234
+C0024141	lupus erythematosus, systemic	amitriptyline	DB00321
+C0024141	lupus erythematosus, systemic	celecoxib	DB00482
+C0024141	lupus erythematosus, systemic	pregabalin	DB00230
+C0024141	lupus erythematosus, systemic	acetylsalicylic acid	DB00945
+C0029456	osteoporosis	raloxifene	DB00481
+C0029456	osteoporosis	estradiol	DB00783
+C0029456	osteoporosis	ethinyl estradiol	DB00977
+C0003873	rheumatoid arthritis	indomethacin	DB00328
+C0003873	rheumatoid arthritis	amitriptyline	DB00321
+C0003873	rheumatoid arthritis	celecoxib	DB00482
+C0003873	rheumatoid arthritis	lidocaine	DB00281
+C0003873	rheumatoid arthritis	gabapentin	DB00996
+C0003873	rheumatoid arthritis	dexamethasone	DB01234
+C0003873	rheumatoid arthritis	cyclosporine	DB00091
+C0003873	rheumatoid arthritis	acetylsalicylic acid	DB00945
+C0003873	rheumatoid arthritis	diclofenac	DB00586
+C0003873	rheumatoid arthritis	sulfasalazine	DB00795
+C0004096	asthma	dexamethasone	DB01234
+C0004096	asthma	pseudoephedrine	DB00852
+C0004096	asthma	theophylline	DB00277
+C0004096	asthma	ketotifen	DB00920
+C0004096	asthma	epinephrine	DB00668
+C0004096	asthma	montelukast	DB00471
+C0004096	asthma	aminophylline	DB01223
+C0040136	thyroid neoplasm	sorafenib	DB00398
+C0040136	thyroid neoplasm	vandetanib	DB05294
+C0033860	psoriasis	salicylic acid	DB00936
+C0033860	psoriasis	dexamethasone	DB01234
+C0033860	psoriasis	cyclosporine	DB00091
+C0011854	diabetes mellitus, insulin-dependent	sildenafil	DB00203
+C0152013	adenocarcinoma of lung (disorder)	paclitaxel	DB01229
+C0152013	adenocarcinoma of lung (disorder)	gemcitabine	DB00441
+C0152013	adenocarcinoma of lung (disorder)	erlotinib	DB00530
+C0152013	adenocarcinoma of lung (disorder)	gefitinib	DB00317
+C0152013	adenocarcinoma of lung (disorder)	vinorelbine	DB00361
+C0152013	adenocarcinoma of lung (disorder)	docetaxel	DB01248
+C0152013	adenocarcinoma of lung (disorder)	vinblastine	DB00570
+C0152013	adenocarcinoma of lung (disorder)	crizotinib	DB08865
+C0011860	diabetes mellitus, non-insulin-dependent	metformin	DB00331
+C0011860	diabetes mellitus, non-insulin-dependent	bromocriptine	DB01200
+C0011860	diabetes mellitus, non-insulin-dependent	rosiglitazone	DB00412
+C0030297	pancreatic neoplasm	tamoxifen	DB00675
+C0030297	pancreatic neoplasm	gemcitabine	DB00441
+C0030297	pancreatic neoplasm	erlotinib	DB00530
+C0030297	pancreatic neoplasm	sunitinib	DB01268
+C0030297	pancreatic neoplasm	docetaxel	DB01248
+C0004509	azoospermia	clomifene	DB00882
+C0010346	crohn disease	sulfasalazine	DB00795
+C0010346	crohn disease	dexamethasone	DB01234
+C0010346	crohn disease	mesalazine	DB00244
+C0010346	crohn disease	nicotine	DB00184
+C1510586	autism spectrum disorders	aripiprazole	DB01238
+C1510586	autism spectrum disorders	clonazepam	DB01068
+C1510586	autism spectrum disorders	quetiapine	DB01224
+C1510586	autism spectrum disorders	risperidone	DB00734
+C1510586	autism spectrum disorders	benzatropine	DB00245
+C1510586	autism spectrum disorders	sertraline	DB01104
+C0004352	autistic disorder	aripiprazole	DB01238
+C0004352	autistic disorder	clonazepam	DB01068
+C0004352	autistic disorder	quetiapine	DB01224
+C0004352	autistic disorder	risperidone	DB00734
+C0004352	autistic disorder	benzatropine	DB00245
+C0004352	autistic disorder	sertraline	DB01104
+C0002395	alzheimer's disease	galantamine	DB00674
+C0002395	alzheimer's disease	quetiapine	DB01224
+C0002395	alzheimer's disease	ropinirole	DB00268
+C0002395	alzheimer's disease	benzatropine	DB00245
+C0002395	alzheimer's disease	haloperidol	DB00502
+C2239176	liver carcinoma	sorafenib	DB00398
+C1263846	attention deficit hyperactivity disorder	imipramine	DB00458
+C1263846	attention deficit hyperactivity disorder	desipramine	DB01151
+C1263846	attention deficit hyperactivity disorder	methamphetamine	DB01577
+C1263846	attention deficit hyperactivity disorder	nortriptyline	DB00540
+C0010346	crohn disease	sulfasalazine	DB00795
+C0010346	crohn disease	mesalazine	DB00244
+C0014544	epilepsy	clonazepam	DB01068
+C0014544	epilepsy	propofol	DB00818
+C0014544	epilepsy	midazolam	DB00683
+C0014544	epilepsy	gabapentin	DB00996
+C0014544	epilepsy	carbamazepine	DB00564
+C0014544	epilepsy	phenytoin	DB00252
+C0014544	epilepsy	pregabalin	DB00230
+C0014544	epilepsy	topiramate	DB00273
+C0014544	epilepsy	phenobarbital	DB01174
+C0014544	epilepsy	lacosamide	DB06218
+C0014544	epilepsy	valproic acid	DB00313
+C0014544	epilepsy	diazepam	DB00829
+C0014544	epilepsy	zonisamide	DB00909
+C0014544	epilepsy	primidone	DB00794
+C0014544	epilepsy	clobazam	DB00349
+C0014544	epilepsy	lamotrigine	DB00555
+C0002736	amyotrophic lateral sclerosis	riluzole	DB00740
+C0002736	amyotrophic lateral sclerosis	dextromethorphan	DB00514
+C0017668	focal glomerulosclerosis	cyclosporine	DB00091
+C0919267	ovarian neoplasm	vinorelbine	DB00361
+C0919267	ovarian neoplasm	paclitaxel	DB01229
+C0919267	ovarian neoplasm	docetaxel	DB01248
+C0020676	hypothyroidism	liothyronine	DB00279
+C0032460	polycystic ovary syndrome	ethinyl estradiol	DB00977
+C0032460	polycystic ovary syndrome	metformin	DB00331
+C0004153	atherosclerosis	lidocaine	DB00281
+C0004153	atherosclerosis	dipyridamole	DB00975
+C0004153	atherosclerosis	amlodipine	DB00381
+C0004153	atherosclerosis	fenofibrate	DB01039
+C0004153	atherosclerosis	acetylsalicylic acid	DB00945
+C0004153	atherosclerosis	nifedipine	DB01115
+C0004153	atherosclerosis	furosemide	DB00695
+C0004153	atherosclerosis	diltiazem	DB00343
+C1956346	coronary artery disease	lidocaine	DB00281
+C1956346	coronary artery disease	dipyridamole	DB00975
+C1956346	coronary artery disease	amlodipine	DB00381
+C1956346	coronary artery disease	fenofibrate	DB01039
+C1956346	coronary artery disease	acetylsalicylic acid	DB00945
+C1956346	coronary artery disease	nifedipine	DB01115
+C1956346	coronary artery disease	furosemide	DB00695
+C1956346	coronary artery disease	diltiazem	DB00343
+C0036341	schizophrenia	trazodone	DB00656
+C0036341	schizophrenia	clonazepam	DB01068
+C0036341	schizophrenia	thiothixene	DB01623
+C0036341	schizophrenia	sertraline	DB01104
+C0036341	schizophrenia	mesoridazine	DB00933
+C0036341	schizophrenia	haloperidol	DB00502
+C0036341	schizophrenia	aripiprazole	DB01238
+C0036341	schizophrenia	trifluoperazine	DB00831
+C0036341	schizophrenia	thioridazine	DB00679
+C0036341	schizophrenia	loxapine	DB00408
+C0036341	schizophrenia	fluphenazine	DB00623
+C0036341	schizophrenia	eszopiclone	DB00402
+C0036341	schizophrenia	valproic acid	DB00313
+C0036341	schizophrenia	olanzapine	DB00334
+C0036341	schizophrenia	carbamazepine	DB00564
+C0036341	schizophrenia	risperidone	DB00734
+C0036341	schizophrenia	paliperidone	DB01267
+C0036341	schizophrenia	fluoxetine	DB00472
+C0036341	schizophrenia	chlorpromazine	DB00477
+C0036341	schizophrenia	quetiapine	DB01224
+C0036341	schizophrenia	clozapine	DB00363
+C0036341	schizophrenia	ziprasidone	DB00246
+C0036341	schizophrenia	benzatropine	DB00245
+C0036341	schizophrenia	cyproheptadine	DB00434
+C0036341	schizophrenia	lamotrigine	DB00555
+C0005586	bipolar disorder	carbamazepine	DB00564
+C0005586	bipolar disorder	olanzapine	DB00334
+C0005586	bipolar disorder	aripiprazole	DB01238
+C0005586	bipolar disorder	chlorpromazine	DB00477
+C0005586	bipolar disorder	citalopram	DB00215
+C0005586	bipolar disorder	valproic acid	DB00313
+C0005586	bipolar disorder	clonazepam	DB01068
+C0005586	bipolar disorder	gabapentin	DB00996
+C0005586	bipolar disorder	quetiapine	DB01224
+C0005586	bipolar disorder	risperidone	DB00734
+C0005586	bipolar disorder	paroxetine	DB00715
+C0005586	bipolar disorder	clozapine	DB00363
+C0005586	bipolar disorder	ziprasidone	DB00246
+C0005586	bipolar disorder	topiramate	DB00273
+C0005586	bipolar disorder	lamotrigine	DB00555
+C0005586	bipolar disorder	trazodone	DB00656
+C0022665	kidney neoplasm	paclitaxel	DB01229
+C0022665	kidney neoplasm	dexamethasone	DB01234
+C0022665	kidney neoplasm	gemcitabine	DB00441
+C0022665	kidney neoplasm	sunitinib	DB01268
+C0022665	kidney neoplasm	erlotinib	DB00530
+C0022665	kidney neoplasm	pazopanib	DB06589
+C0022665	kidney neoplasm	vinblastine	DB00570
+C0022665	kidney neoplasm	sorafenib	DB00398
+C0022665	kidney neoplasm	celecoxib	DB00482
+C0022665	kidney neoplasm	vincristine	DB00541
+C0011615	dermatitis, atopic	doxepin	DB01142
+C0011615	dermatitis, atopic	dexamethasone	DB01234
+C0028754	obesity	topiramate	DB00273
+C0028754	obesity	methamphetamine	DB01577

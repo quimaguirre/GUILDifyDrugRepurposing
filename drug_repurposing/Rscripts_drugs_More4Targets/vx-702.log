@@ -1,0 +1,13 @@
+Loading required package: magrittr
+
+Attaching package: ‘tidyr’
+
+The following object is masked from ‘package:magrittr’:
+
+    extract
+
+No encoding supplied: defaulting to UTF-8.
+No encoding supplied: defaulting to UTF-8.
+Error in query("vx-702", species = "9606", tissue = "all", network.source = "BIANA") : 
+  No match for the query!
+Execution halted

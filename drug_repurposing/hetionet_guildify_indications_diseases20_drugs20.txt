@@ -1,0 +1,84 @@
+#CUI	Disease name	Drug name	DrugbankID
+C0025202	melanoma	docetaxel	DB01248
+C0011581	depressive disorder	imipramine	DB00458
+C0011581	depressive disorder	aripiprazole	DB01238
+C0011581	depressive disorder	amitriptyline	DB00321
+C0041696	unipolar depression	imipramine	DB00458
+C0041696	unipolar depression	aripiprazole	DB01238
+C0041696	unipolar depression	amitriptyline	DB00321
+C1269683	major depressive disorder	imipramine	DB00458
+C1269683	major depressive disorder	aripiprazole	DB01238
+C1269683	major depressive disorder	amitriptyline	DB00321
+C0678222	breast carcinoma	tamoxifen	DB00675
+C0678222	breast carcinoma	raloxifene	DB00481
+C0678222	breast carcinoma	paclitaxel	DB01229
+C0678222	breast carcinoma	docetaxel	DB01248
+C0678222	breast carcinoma	estradiol	DB00783
+C0024141	lupus erythematosus, systemic	gabapentin	DB00996
+C0024141	lupus erythematosus, systemic	amitriptyline	DB00321
+C0029456	osteoporosis	raloxifene	DB00481
+C0029456	osteoporosis	estradiol	DB00783
+C0003873	rheumatoid arthritis	amitriptyline	DB00321
+C0003873	rheumatoid arthritis	gabapentin	DB00996
+C0040136	thyroid neoplasm	sorafenib	DB00398
+C0040136	thyroid neoplasm	vandetanib	DB05294
+C0152013	adenocarcinoma of lung (disorder)	paclitaxel	DB01229
+C0152013	adenocarcinoma of lung (disorder)	erlotinib	DB00530
+C0152013	adenocarcinoma of lung (disorder)	docetaxel	DB01248
+C0152013	adenocarcinoma of lung (disorder)	crizotinib	DB08865
+C0011860	diabetes mellitus, non-insulin-dependent	metformin	DB00331
+C0030297	pancreatic neoplasm	tamoxifen	DB00675
+C0030297	pancreatic neoplasm	erlotinib	DB00530
+C0030297	pancreatic neoplasm	sunitinib	DB01268
+C0030297	pancreatic neoplasm	docetaxel	DB01248
+C1510586	autism spectrum disorders	aripiprazole	DB01238
+C1510586	autism spectrum disorders	quetiapine	DB01224
+C1510586	autism spectrum disorders	risperidone	DB00734
+C0004352	autistic disorder	aripiprazole	DB01238
+C0004352	autistic disorder	quetiapine	DB01224
+C0004352	autistic disorder	risperidone	DB00734
+C0002395	alzheimer's disease	quetiapine	DB01224
+C0002395	alzheimer's disease	haloperidol	DB00502
+C2239176	liver carcinoma	sorafenib	DB00398
+C1263846	attention deficit hyperactivity disorder	imipramine	DB00458
+C1263846	attention deficit hyperactivity disorder	desipramine	DB01151
+C0014544	epilepsy	propofol	DB00818
+C0014544	epilepsy	gabapentin	DB00996
+C0014544	epilepsy	topiramate	DB00273
+C0014544	epilepsy	zonisamide	DB00909
+C0014544	epilepsy	primidone	DB00794
+C0919267	ovarian neoplasm	paclitaxel	DB01229
+C0919267	ovarian neoplasm	docetaxel	DB01248
+C0032460	polycystic ovary syndrome	metformin	DB00331
+C0004153	atherosclerosis	dipyridamole	DB00975
+C0004153	atherosclerosis	nifedipine	DB01115
+C1956346	coronary artery disease	dipyridamole	DB00975
+C1956346	coronary artery disease	nifedipine	DB01115
+C0036341	schizophrenia	haloperidol	DB00502
+C0036341	schizophrenia	aripiprazole	DB01238
+C0036341	schizophrenia	thioridazine	DB00679
+C0036341	schizophrenia	loxapine	DB00408
+C0036341	schizophrenia	fluphenazine	DB00623
+C0036341	schizophrenia	olanzapine	DB00334
+C0036341	schizophrenia	risperidone	DB00734
+C0036341	schizophrenia	paliperidone	DB01267
+C0036341	schizophrenia	chlorpromazine	DB00477
+C0036341	schizophrenia	quetiapine	DB01224
+C0036341	schizophrenia	clozapine	DB00363
+C0036341	schizophrenia	ziprasidone	DB00246
+C0036341	schizophrenia	cyproheptadine	DB00434
+C0005586	bipolar disorder	olanzapine	DB00334
+C0005586	bipolar disorder	aripiprazole	DB01238
+C0005586	bipolar disorder	chlorpromazine	DB00477
+C0005586	bipolar disorder	gabapentin	DB00996
+C0005586	bipolar disorder	quetiapine	DB01224
+C0005586	bipolar disorder	risperidone	DB00734
+C0005586	bipolar disorder	clozapine	DB00363
+C0005586	bipolar disorder	ziprasidone	DB00246
+C0005586	bipolar disorder	topiramate	DB00273
+C0022665	kidney neoplasm	paclitaxel	DB01229
+C0022665	kidney neoplasm	sunitinib	DB01268
+C0022665	kidney neoplasm	erlotinib	DB00530
+C0022665	kidney neoplasm	pazopanib	DB06589
+C0022665	kidney neoplasm	sorafenib	DB00398
+C0028754	obesity	topiramate	DB00273

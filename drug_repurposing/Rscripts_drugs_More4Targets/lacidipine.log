@@ -1,0 +1,16 @@
+Loading required package: magrittr
+
+Attaching package: ‘tidyr’
+
+The following object is masked from ‘package:magrittr’:
+
+    extract
+
+No encoding supplied: defaulting to UTF-8.
+No encoding supplied: defaulting to UTF-8.
+[1] "6 entries are retrieved (0 not in network)"
+No encoding supplied: defaulting to UTF-8.
+No encoding supplied: defaulting to UTF-8.
+[1] "Your job has been submitted! Please do not submit the same job (you can check its status using 'retrieve.job' method.)"
+[1] "Job id: 3ec11870-bf2a-4ae7-b692-b942908ddc7a"
+[1] "3ec11870-bf2a-4ae7-b692-b942908ddc7a"

@@ -1,0 +1,390 @@
+C0036341	schizophrenia	758	758	931
+C0917816	mental deficiency	521	521	592
+C0025362	mental retardation	521	521	592
+C0557874	global developmental delay	495	495	543
+C0014544	epilepsy	436	436	505
+C0005586	bipolar disorder	381	381	471
+C0011581	depressive disorder	303	303	377
+C2315100	pediatric failure to thrive	297	297	341
+C0028738	nystagmus	242	242	289
+C1857130	hypoplastic mandible condyle	239	239	258
+C0240295	mandibular hypoplasia	239	239	258
+C0025990	micrognathism	239	239	258
+C0700208	acquired scoliosis	229	229	257
+C0038379	strabismus	225	225	252
+C0004352	autistic disorder	220	220	256
+C0018784	sensorineural hearing loss (disorder)	212	212	259
+C2239176	liver carcinoma	208	208	223
+C0010417	cryptorchidism	206	206	239
+C0001973	alcoholic intoxication, chronic	206	206	274
+C0028754	obesity	202	202	249
+C1269683	major depressive disorder	199	199	240
+C0041696	unipolar depression	196	196	236
+C0011570	mental depression	193	193	248
+C0005745	blepharoptosis	190	190	212
+C0086543	cataract	185	185	230
+C0240635	byzanthine arch palate	166	166	181
+C0025202	melanoma	165	165	202
+C0029124	optic atrophy	156	156	193
+C0008925	cleft palate	153	153	178
+C0013362	dysarthria	152	152	169
+C0239234	low set ears	150	150	163
+C0678230	congenital epicanthus	147	147	165
+C0339789	congenital deafness	141	141	171
+C0003873	rheumatoid arthritis	139	139	166
+C0235946	cerebral atrophy	134	134	154
+C0002871	anemia	134	134	145
+C0029456	osteoporosis	131	131	151
+C0042798	low vision	130	130	164
+C0266435	congenital hypoplasia of penis	129	129	166
+C0018801	heart failure	128	128	143
+C2981150	uranostaphyloschisis	127	127	149
+C0221354	frontal bossing	127	127	143
+C0035334	retinitis pigmentosa	121	121	161
+C0007134	renal cell carcinoma	120	120	132
+C0011860	diabetes mellitus, non-insulin-dependent	118	118	133
+C0234958	muscle degeneration	116	116	130
+C0032460	polycystic ovary syndrome	115	115	142
+C0023890	liver cirrhosis	112	112	127
+C0023467	leukemia, myelocytic, acute	109	109	113
+C1858085	malar flattening	107	107	120
+C0007137	squamous cell carcinoma	102	102	111
+C0221357	brachydactyly	100	100	114
+C0029408	degenerative polyarthritis	98	98	110
+C1850049	bilateral fifth finger clinodactyly	93	93	105
+C0027051	myocardial infarction	93	93	98
+C1845112	hyperkyphosis	91	91	103
+C1691215	penile hypospadias	90	90	96
+C0241210	speech delay	89	89	98
+C0018777	conductive hearing loss	88	88	115
+C0009081	congenital clubfoot	88	88	98
+C0017601	glaucoma	87	87	115
+C0020619	hypogonadism	86	86	117
+C0027092	myopia	86	86	104
+C0345967	malignant mesothelioma	86	86	99
+C0003467	anxiety	84	84	95
+C4020884	anxiety disease	84	84	95
+C0919267	ovarian neoplasm	83	83	91
+C0020255	hydrocephalus	83	83	100
+C2051831	pectus excavatum	82	82	94
+C0262404	cerebellar degeneration	81	81	92
+C0740279	atrophy of cerebellum	81	81	92
+C4020873	infratentorial atrophy	81	81	92
+C4020871	dystonic disease	80	80	83
+C0007194	hypertrophic cardiomyopathy	80	80	86
+C0271215	blindness, legal	80	80	104
+C0020615	hypoglycemia	79	79	91
+C0004096	asthma	78	78	95
+C0015300	exophthalmos	77	77	86
+C4280808	abnormally small eyeball	76	76	92
+C0029453	osteopenia	76	76	91
+C0026010	microphthalmos	76	76	95
+C0747078	generalized osteopenia	76	76	91
+C1263846	attention deficit hyperactivity disorder	76	76	84
+C4020860	supratentorial atrophy	75	75	87
+C0009917	contracture	75	75	90
+C0032285	pneumonia	75	75	86
+C0152421	macrotia	75	75	80
+C0338656	impaired cognition	75	75	87
+C0683322	mental impairment	74	74	86
+C0728829	congenital pes cavus	74	74	79
+C0030297	pancreatic neoplasm	74	74	81
+C0333068	flexion contracture	73	73	87
+C0034069	pulmonary fibrosis	73	73	77
+C1565489	renal insufficiency	73	73	81
+C0007786	brain ischemia	73	73	75
+C0009918	contracture of joint	73	73	87
+C1850530	flexion contractures of joints	73	73	87
+C1836830	developmental regression	72	72	84
+C0002170	alopecia	72	72	84
+C0038220	status epilepticus	72	72	80
+C0221356	brachycephaly	69	69	80
+C0002395	alzheimer's disease	69	69	77
+C0017636	glioblastoma	68	68	70
+C0036857	severe mental retardation (i.q. 20-34)	68	68	83
+C0344482	hypoplasia of corpus callosum	68	68	78
+C0020608	hypodontia	68	68	74
+C0026034	microstomia	67	67	73
+C1145670	respiratory failure	66	66	73
+C0013274	patent ductus arteriosus	65	65	75
+C0035078	kidney failure	64	64	70
+C0259817	xerosis	64	64	71
+C0175754	agenesis of corpus callosum	64	64	76
+C0017638	glioma	63	63	68
+C4280653	turridolichocephaly	62	62	70
+C4280654	narrow skull shape	62	62	70
+C4280656	narrow cranium shape	62	62	70
+C4280655	narrow head shape	62	62	70
+C0264133	acquired flat foot	62	62	69
+C0011334	dental caries	62	62	68
+C0221358	long narrow head	62	62	70
+C0085605	liver failure	61	61	71
+C2609414	acute kidney injury	61	61	70
+C0085633	mood swings	61	61	71
+C0017168	gastroesophageal reflux disease	61	61	69
+C0008924	cleft lip	60	60	73
+C0020459	hyperinsulinism	60	60	82
+C0302501	mandibular hyperplasia	60	60	69
+C0399526	class iii malocclusion	60	60	69
+C1956346	coronary artery disease	59	59	68
+C0349204	nonorganic psychosis	58	58	76
+C0026106	mild mental retardation	57	57	64
+C0008370	cholestasis	56	56	68
+C0240310	hypoplasia of the maxilla	55	55	59
+C0152013	adenocarcinoma of lung (disorder)	55	55	57
+C0028077	night blindness	55	55	79
+C0014306	enophthalmos	55	55	56
+C0020295	hydronephrosis	54	54	64
+C2267233	neonatal hypotonia	54	54	58
+C0271623	hypogonadotropic hypogonadism	54	54	68
+C3489396	hypogonadism, isolated hypogonadotropic	53	53	67
+C0005744	blepharophimosis	52	52	54
+C0018802	congestive heart failure	52	52	56
+C0024433	macrostomia	52	52	62
+C1510586	autism spectrum disorders	52	52	68
+C0002878	anemia, hemolytic	52	52	53
+C0240340	microdontia (disorder)	52	52	57
+C0431478	posteriorly rotated ear	51	51	57
+C0497327	dementia	51	51	57
+C0024141	lupus erythematosus, systemic	50	50	58
+C0575158	kyphoscoliosis deformity of spine	50	50	56
+C0744641	intermittent migraine headaches	50	50	55
+C0024636	malocclusion	50	50	54
+C4280614	angle class 2 malocclusion	50	50	54
+C1305420	prominent ear	49	49	52
+C0003886	arthrogryposis	49	49	53
+C0025995	micromelia	49	49	57
+C0022596	palmoplantar keratosis	48	48	55
+C0023418	leukemia	48	48	49
+C0746926	multiple, subcutaneous nodules	47	47	49
+C0221260	dystrophia unguium	46	46	52
+C0033860	psoriasis	46	46	56
+C0004153	atherosclerosis	46	46	52
+C0158731	congenital pectus carinatum	45	45	50
+C0376175	bell palsy	45	45	56
+C0266470	cerebellar hypoplasia	45	45	51
+C1848736	distal amyotrophy	45	45	48
+C0024421	macroglossia	45	45	58
+C1834405	nail dysplasia	44	44	51
+C3494422	retrognathia	44	44	51
+C0576093	knee joint valgus deformity	43	43	53
+C3714581	multicystic dysplastic kidney	43	43	51
+C0265610	congenital clinodactyly	43	43	51
+C0025149	medulloblastoma	43	43	46
+C0002736	amyotrophic lateral sclerosis	42	42	48
+C0870082	hyperkeratosis	42	42	45
+C1385263	facial deformity	42	42	44
+C0521719	clouding of corneal stroma	42	42	48
+C0743359	ear infection chronic	42	42	45
+C0271441	chronic otitis media	42	42	45
+C1862939	amyotrophic lateral sclerosis 1	41	41	48
+C0003864	arthritis	41	41	48
+C0022578	keratoconus	41	41	62
+C0266544	microcornea	41	41	47
+C0265783	congenital hypoplasia of lung	40	40	44
+C0027819	neuroblastoma	40	40	42
+C4021782	abnormality of the fingernails	40	40	47
+C0266464	polymicrogyria	40	40	43
+C0019555	hip dislocation, congenital	39	39	46
+C4025814	abnormality of the metaphyses	39	39	44
+C0018418	gynecomastia	39	39	51
+C0221352	syndactyly of fingers	39	39	43
+C0007117	basal cell carcinoma	38	38	41
+C0011854	diabetes mellitus, insulin-dependent	38	38	46
+C0152423	congenital small ears	38	38	44
+C2711227	steatohepatitis	38	38	41
+C0027962	melanocytic nevus	38	38	40
+C0010278	craniosynostosis	38	38	42
+C0039075	syndactyly	37	37	39
+C0009691	congenital cataract	37	37	41
+C4020854	neuro-degenerative disease	37	37	43
+C0003706	arachnodactyly	37	37	42
+C4025790	specific learning disability	37	37	42
+C4024753	abnormality of the retinal vasculature	37	37	57
+C3277059	congenital bilateral cataracts	37	37	41
+C0020676	hypothyroidism	36	36	45
+C3715165	left ventricular noncompaction 10	36	36	37
+C0265660	syndactyly of the toes	36	36	41
+C0023892	biliary cirrhosis	36	36	41
+C3809288	left ventricular noncompaction 8	36	36	37
+C0029463	osteosarcoma	36	36	38
+C1956257	pulmonary stenosis	36	36	44
+C0043352	xerostomia	35	35	41
+C0003466	anus, imperforate	35	35	43
+C0156394	hypertrophy of clitoris	35	35	38
+C1961102	precursor cell lymphoblastic leukemia lymphoma	35	35	40
+C0747085	recurrent otitis media	35	35	39
+C0149721	left ventricular hypertrophy	35	35	37
+C0026267	mitral valve prolapse syndrome	35	35	37
+C0431483	simple ear	35	35	37
+C0085762	alcohol abuse	34	34	43
+C0431904	ulnar polydactyly of fingers	34	34	44
+C1846460	malformed pinnae	34	34	36
+C0039685	tetralogy of fallot	34	34	41
+C0149925	small cell carcinoma of lung	34	34	40
+C0024312	lymphopenia	34	34	34
+C0030312	pancytopenia	33	33	36
+C0006267	bronchiectasis	33	33	37
+C0431447	synophrys	33	33	34
+C0037199	sinusitis	33	33	37
+C0040136	thyroid neoplasm	33	33	36
+C0022548	keloid	33	33	36
+C0024117	chronic obstructive airway disease	33	33	36
+C0232939	primary physiologic amenorrhea	33	33	51
+C0023487	acute promyelocytic leukemia	33	33	35
+C0020757	ichthyoses	33	33	40
+C0266483	pachygyria	32	32	35
+C0013595	eczema	32	32	40
+C0029927	ovarian cysts	32	32	40
+C0026850	muscular dystrophy	32	32	41
+C4020847	abnormality of pelvic girdle bone morphology	32	32	36
+C0017668	focal glomerulosclerosis	32	32	33
+C0009763	conjunctivitis	31	31	35
+C3203102	idiopathic pulmonary arterial hypertension	31	31	38
+C0685409	congenital camptodactyly	31	31	36
+C0023530	leukopenia	31	31	34
+C0751778	myoclonic epilepsies, progressive	31	31	36
+C0240063	coloboma of iris	31	31	34
+C0221217	neck webbing	31	31	35
+C2973725	pulmonary arterial hypertension	31	31	38
+C0010346	crohn disease	31	31	41
+C0040588	tracheoesophageal fistula	31	31	35
+C0086438	hypogammaglobulinemia	31	31	32
+C4025846	abnormality of vision	30	30	36
+C0020443	hypercholesterolemia	30	30	35
+C0013336	dwarfism	30	30	33
+C0023434	chronic lymphocytic leukemia	30	30	35
+C0375206	hemiplegia and hemiparesis	30	30	36
+C0020437	hypercalcemia	30	30	34
+C0009363	congenital ocular coloboma (disorder)	29	29	37
+C0235833	congenital diaphragmatic hernia	29	29	31
+C0037772	spastic paraplegia	29	29	35
+C0001969	alcoholic intoxication	29	29	33
+C0042580	vesico-ureteral reflux	29	29	33
+C0020456	hyperglycemia	29	29	33
+C0238621	aminoaciduria	29	29	35
+C0600427	cocaine dependence	29	29	41
+C0026764	multiple myeloma	29	29	31
+C0409338	flexion contracture - elbow	29	29	31
+C0011351	dental enamel hypoplasia	29	29	33
+C0004238	atrial fibrillation	29	29	35
+C0038271	stereotyped behavior	28	28	32
+C0426970	spastic quadriplegia	28	28	31
+C0003123	anorexia	28	28	33
+C4280262	dystrophic tooth enamel	28	28	29
+C1184923	lumbar lordosis	28	28	34
+C0238463	papillary thyroid carcinoma	28	28	30
+C0948896	primary hypogonadism	28	28	34
+C0239946	fibrosis, liver	28	28	30
+C0028768	obsessive-compulsive disorder	27	27	29
+C0003504	aortic valve insufficiency	27	27	30
+C0263401	cutis marmorata	27	27	30
+C0494475	tonic - clonic seizures	27	27	32
+C0085583	choreoathetosis	27	27	29
+C0038325	stevens-johnson syndrome	27	27	29
+C0023264	leigh disease	27	27	31
+C0022679	cystic kidney	27	27	28
+C0009319	colitis	27	27	31
+C0036920	sezary syndrome	26	26	26
+C0702166	acne	26	26	32
+C0266295	congenital hypoplasia of kidney	26	26	29
+C0017658	glomerulonephritis	26	26	32
+C0004509	azoospermia	26	26	31
+C0014457	eosinophilia	26	26	26
+C0022665	kidney neoplasm	26	26	28
+C0003492	aortic coarctation	26	26	30
+C0020473	hyperlipidemia	26	26	30
+C0023520	leukodystrophy	26	26	28
+C0011615	dermatitis, atopic	26	26	36
+C1842083	abnormality of the ribs	25	25	30
+C0085684	foot-drop	25	25	25
+C4021776	abnormality of the voice	25	25	39
+C0020490	hyperopia	25	25	42
+C0042109	urticaria	25	25	29
+C0034150	purpura	25	25	25
+C2316810	chronic kidney disease stage 5	25	25	29
+C0026351	moderate mental retardation (i.q. 35-49)	24	24	26
+C0006386	bunion	24	24	26
+C4082304	oligodontia	24	24	24
+C0017567	gingival hypertrophy	24	24	32
+C1837249	malformations of cortical development, group ii	24	24	29
+C0152427	polydactyly	24	24	27
+C0344531	embryotoxon	24	24	25
+C0266122	cleft uvula	24	24	26
+C0162557	liver failure, acute	24	24	29
+C0546967	posterior embryotoxon	24	24	25
+C0018536	hallux valgus	24	24	26
+C0008297	choanal atresia	24	24	26
+C0401151	chronic diarrhea	24	24	29
+C0014850	esophageal atresia	24	24	24
+C0432333	abnormal dermatoglyphic pattern	24	24	24
+C0542519	congenital absence of kidney	24	24	30
+C0024809	marijuana abuse	23	23	31
+C0030354	papilloma	23	23	24
+C0694550	recurrent pneumonia	23	23	26
+C3714796	isolated somatotropin deficiency	23	23	26
+C0748140	multiple pulmonary infections	23	23	26
+C0206698	cholangiocarcinoma	23	23	24
+C0030305	pancreatitis	23	23	32
+C1168401	squamous cell carcinoma of the head and neck	23	23	27
+C0025289	meningitis	23	23	26
+C0338474	central nervous system demyelination	23	23	26
+C0158113	contracture of joint of hand	23	23	27
+C0020796	profound mental retardation	22	22	29
+C0178417	anhedonia	22	22	26
+C0600104	obsessive compulsive behavior	22	22	22
+C3161330	profound intellectual disabilities	22	22	29
+C0019202	hepatolenticular degeneration	22	22	23
+C0015625	fanconi anemia	22	22	22
+C0010964	dandy-walker syndrome	22	22	28
+C0398650	immune thrombocytopenic purpura	22	22	24
+C0014550	epilepsies, myoclonic	22	22	28
+C0004114	astrocytoma	22	22	23
+C0392525	nephrolithiasis	22	22	28
+C0034013	precocious puberty	22	22	24
+C3489733	oculomotor apraxia	22	22	24
+C0239981	hypoalbuminemia	22	22	23
+C0678222	breast carcinoma	22	22	22
+C0152025	polyneuropathy	22	22	23
+C0741796	recurrent bronchitis	21	21	23
+C0019158	hepatitis	21	21	24
+C0266625	preauricular sinus	21	21	25
+C0020678	hypotrichosis	21	21	28
+C0010495	cutis laxa	21	21	23
+C0037036	sialorrhea	21	21	23
+C0018524	hallucinations	21	21	26
+C4020858	choreatic disease	21	21	25
+C0242584	autoimmune thrombocytopenia	21	21	22
+C4021759	generalized myoclonic seizures	21	21	26
+C0019189	hepatitis, chronic	21	21	21
+C0011606	exfoliative dermatitis	21	21	24
+C0035305	retinal detachment	21	21	30
+C0162539	igg deficiency	21	21	21
+C0079773	lymphoma, t-cell, cutaneous	21	21	21
+C0266610	preauricular dimple	21	21	25
+C2930812	generalized elastolysis	21	21	23
+C0546969	preauricular fistulae, congenital	21	21	25
+C0920163	idiopathic thrombocytopenia	21	21	22
+C0042384	vasculitis	21	21	23
+C0158646	cleft palate with cleft lip	21	21	22
+C0221373	claw hand	21	21	24
+C0242350	erectile dysfunction	21	21	28
+C0240912	vertical talus	21	21	22
+C0020541	hypertension, portal	20	20	22
+C0024236	lymphedema	20	20	22
+C0266362	ambiguous genitalia	20	20	21
+C4025844	chorioretinal abnormality	20	20	21
+C0018916	hemangioma	20	20	22
+C0024305	lymphoma, non-hodgkin	20	20	22
+C0206620	lymphangioma, cystic	20	20	20
+C0022568	keratitis	20	20	24
+C0432040	simple syndactyly of toes, first web space	20	20	22
+C0023473	myeloid leukemia, chronic	20	20	21
+C0020555	hypertrichosis	20	20	22
+C1862314	basal cell nevi	20	20	21
+C0543888	epileptic encephalopathy	20	20	22
+C0025286	meningioma	20	20	21
+C0263490	brittle hair	20	20	24
+C0752347	lewy body disease	20	20	21
+C0004943	behcet syndrome	20	20	22
+C0019569	hirschsprung disease	20	20	26

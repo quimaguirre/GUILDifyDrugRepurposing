@@ -1,0 +1,2027 @@
+Drug name	DrugBankID	# genes in drug DBs and network	# drugbank	# dgidb	# chembl	# drugcentral
+copper	DB09130	125	125	0	0	0
+nadh	DB00157	122	122	0	0	0
+glutamic acid	DB00142	64	63	0	0	10
+dasatinib	DB01254	51	23	21	14	33
+metformin	DB00331	50	1	3	46	46
+bosutinib	DB06616	47	10	19	4	33
+vandetanib	DB05294	46	5	24	24	31
+pyridoxal	DB00147	45	45	1	0	0
+pyridoxal phosphate	DB00114	44	44	1	0	0
+chlorpromazine	DB00477	42	17	12	4	34
+tamoxifen	DB00675	41	9	6	1	32
+calcium	DB01373	40	40	0	0	0
+sunitinib	DB01268	39	8	11	9	38
+bortezomib	DB00188	38	2	37	37	6
+clotrimazole	DB00257	38	3	4	0	34
+carfilzomib	DB08889	37	6	37	37	2
+nintedanib	DB09079	37	10	9	9	37
+miconazole	DB01110	36	8	1	0	28
+imatinib	DB00619	36	7	12	3	31
+ethanol	DB00898	35	31	5	0	4
+topiramate	DB00273	35	7	30	29	21
+nilotinib	DB04868	35	2	8	1	30
+glutathione	DB00143	34	34	0	0	0
+pazopanib	DB06589	33	10	9	11	29
+verapamil	DB00661	32	15	13	3	18
+amitriptyline	DB00321	32	22	6	2	19
+sorafenib	DB00398	32	10	14	9	28
+fluphenazine	DB00623	32	6	6	1	27
+diethylstilbestrol	DB00255	31	9	2	1	24
+guanidine	DB00536	29	4	0	25	25
+econazole	DB01127	29	1	1	0	27
+adenine	DB00173	29	29	0	0	1
+clozapine	DB00363	28	16	18	2	19
+haloperidol	DB00502	28	6	10	4	23
+crizotinib	DB08865	28	2	2	2	28
+astemizole	DB00637	28	3	2	0	27
+amiodarone	DB01118	28	5	3	1	26
+bepridil	DB01244	28	7	11	14	7
+thioridazine	DB00679	28	6	11	5	24
+glycine	DB00145	27	23	6	0	0
+dalfampridine	DB06637	26	12	24	25	25
+halothane	DB01159	26	13	17	13	13
+resveratrol	DB02709	26	23	4	0	0
+axitinib	DB06626	26	3	8	3	24
+calcium citrate	DB11093	26	26	0	0	0
+calcium phosphate	DB11348	26	26	0	0	0
+dronedarone	DB04855	25	13	4	11	6
+raloxifene	DB00481	25	4	3	1	22
+ceritinib	DB09063	25	1	5	1	24
+tedisamil	DB06200	24	0	24	0	0
+risperidone	DB00734	24	10	13	3	18
+mianserin	DB06148	24	14	9	0	19
+paclitaxel	DB01229	24	6	16	15	12
+flavin adenine dinucleotide	DB03147	24	24	0	0	0
+erlotinib	DB00530	24	2	1	1	23
+ziprasidone	DB00246	24	15	13	3	18
+pentobarbital	DB00312	23	11	20	11	6
+carvedilol	DB01136	23	13	4	5	16
+yohimbine	DB01392	23	8	12	0	13
+quetiapine	DB01224	22	16	9	3	18
+primidone	DB00794	22	9	22	18	3
+imipramine	DB00458	22	17	3	2	16
+orphenadrine	DB01173	22	6	4	15	19
+docetaxel	DB01248	22	6	3	15	11
+adenosine	DB00640	22	18	6	3	5
+aripiprazole	DB01238	22	15	5	3	18
+l-aspartic acid	DB00128	22	19	3	0	0
+cyproheptadine	DB00434	22	3	7	0	18
+olanzapine	DB00334	22	16	16	5	17
+amoxapine	DB00543	22	18	9	7	16
+flunarizine	DB04841	22	2	2	0	21
+pentoxifylline	DB00806	22	5	20	18	3
+propofol	DB00818	22	4	16	11	11
+desipramine	DB01151	21	11	5	1	17
+nifedipine	DB01115	21	7	5	3	17
+enflurane	DB00228	21	5	20	13	2
+cinnarizine	DB00568	21	6	0	3	16
+loxapine	DB00408	21	19	9	5	12
+tubocurarine	DB01199	21	2	1	4	18
+zotepine	DB09225	21	6	12	0	16
+dobutamine	DB00841	21	3	2	2	20
+propafenone	DB01182	21	4	5	9	14
+gabapentin	DB00996	21	6	14	14	6
+loperamide	DB00836	21	6	2	1	18
+succinic acid	DB00139	20	20	1	0	0
+dipyridamole	DB00975	20	5	18	17	13
+ketamine	DB01221	20	10	4	7	11
+zonisamide	DB00909	20	18	11	7	10
+paliperidone	DB01267	20	12	5	2	16
+promazine	DB00420	20	9	11	4	17
+estradiol	DB00783	20	9	2	1	13
+pimozide	DB01100	19	4	9	6	14
+desflurane	DB01189	19	5	19	13	13
+sevoflurane	DB01236	19	6	19	13	13
+mirtazapine	DB00370	19	15	5	3	10
+acamprosate	DB00659	19	2	2	18	10
+promethazine	DB01069	19	5	1	0	18
+nortriptyline	DB00540	19	12	3	2	15
+isoflurane	DB00753	19	6	16	13	14
+celecoxib	DB00482	18	4	4	1	15
+phenobarbital	DB01174	18	7	14	0	3
+bromocriptine	DB01200	18	14	12	3	15
+iloperidone	DB04946	18	8	9	2	14
+ibrutinib	DB09053	18	1	16	1	7
+prochlorperazine	DB00433	18	1	5	1	17
+midostaurin	DB06595	18	6	18	16	0
+regorafenib	DB08896	18	18	16	16	2
+podofilox	DB01179	18	3	1	0	17
+alprazolam	DB00404	18	0	17	11	7
+tg-100801	DB05075	18	4	16	16	0
+terfenadine	DB00342	18	2	3	0	17
+lamotrigine	DB00555	17	10	7	7	8
+cocaine	DB00907	17	8	8	0	12
+trifluoperazine	DB00831	17	6	6	5	12
+ponatinib	DB08901	17	15	6	2	10
+thiopental	DB00599	17	10	10	11	4
+asenapine	DB06216	17	14	2	0	15
+suramin	DB04786	17	3	3	1	11
+sildenafil	DB00203	17	2	1	0	14
+oxazepam	DB00842	17	13	17	11	3
+sertindole	DB06144	17	8	13	6	12
+tretinoin	DB00755	17	13	8	3	7
+vinblastine	DB00570	17	4	2	15	9
+lisuride	DB00589	17	11	13	0	14
+fluoxetine	DB00472	17	4	4	1	15
+vitamin c	DB00126	17	16	1	0	0
+metharbital	DB00463	17	9	17	11	11
+clomifene	DB00882	17	2	1	1	16
+doxepin	DB01142	17	14	0	0	14
+secobarbital	DB00418	16	10	9	11	3
+quinidine	DB00908	16	6	0	7	9
+trazodone	DB00656	16	6	9	3	15
+eribulin	DB08871	16	2	1	15	9
+carbamazepine	DB00564	16	4	9	7	6
+l-proline	DB00172	16	15	2	0	1
+felodipine	DB01023	16	10	7	4	7
+procaine	DB00721	16	4	4	7	5
+methoxyflurane	DB01028	16	6	12	11	11
+oxiconazole	DB00239	16	1	2	0	13
+lacosamide	DB06218	16	2	8	7	8
+genistein	DB01645	16	12	6	0	0
+theophylline	DB00277	16	12	9	9	6
+maprotiline	DB00934	16	6	3	1	14
+sulfasalazine	DB00795	16	9	9	3	6
+adenosine monophosphate	DB00131	16	15	1	0	1
+cabergoline	DB00248	16	16	12	1	12
+droperidol	DB00450	16	2	5	4	13
+diazepam	DB00829	16	12	15	11	8
+gemcitabine	DB00441	16	3	2	14	6
+dihydroergotamine	DB00320	15	3	4	0	13
+clomipramine	DB01242	15	6	3	1	14
+pergolide	DB01186	15	14	11	5	13
+clonazepam	DB01068	15	2	14	11	11
+vincristine	DB00541	15	2	3	15	9
+acetylsalicylic acid	DB00945	15	11	6	2	2
+apomorphine	DB00714	15	12	11	3	12
+talbutal	DB00306	15	9	15	11	11
+lorazepam	DB00186	15	1	15	11	3
+liothyronine	DB00279	15	3	2	2	14
+butabarbital	DB00237	15	4	9	11	3
+gentian violet	DB00406	15	0	0	0	15
+hexachlorophene	DB00756	15	3	0	0	13
+paroxetine	DB00715	15	4	5	1	10
+cholic acid	DB02659	15	15	0	0	1
+ixabepilone	DB04845	15	1	14	15	9
+cabazitaxel	DB06772	15	2	14	15	9
+dextromethorphan	DB00514	15	13	3	2	4
+triazolam	DB00897	15	14	14	11	12
+butalbital	DB00241	15	9	15	11	3
+fenfluramine	DB00574	14	4	1	2	12
+alvocidib	DB03496	14	12	10	6	0
+domperidone	DB01184	14	2	2	0	14
+dopamine	DB00988	14	10	5	1	10
+troglitazone	DB00197	14	9	1	1	6
+acetaminophen	DB00316	14	5	6	4	9
+clotiazepam	DB01559	14	11	12	11	0
+ellagic acid	DB08846	14	14	0	0	0
+pregabalin	DB00230	14	1	14	14	1
+midazolam	DB00683	14	13	13	11	6
+romidepsin	DB06176	14	5	0	0	13
+pethidine	DB00454	14	11	1	1	6
+clorazepate	DB00628	14	1	14	11	6
+temazepam	DB00231	14	14	14	11	3
+estazolam	DB01215	14	11	14	11	6
+methysergide	DB00247	14	6	8	0	11
+acalabrutinib	DB11703	14	1	14	1	0
+glycerin	DB09462	14	12	2	0	0
+danazol	DB01406	14	4	3	2	13
+phentolamine	DB00692	14	4	3	4	14
+methohexital	DB00474	14	1	3	11	4
+clofarabine	DB00631	14	2	6	14	3
+adinazolam	DB00546	14	11	12	0	11
+cefapirin	DB01139	14	0	1	0	13
+chlordiazepoxide	DB00475	14	0	13	11	7
+dexfenfluramine	DB01191	14	2	1	7	12
+serine	DB00133	14	14	0	0	0
+gabapentin enacarbil	DB08872	14	1	14	14	1
+ergotamine	DB00696	14	12	6	4	0
+nitrazepam	DB01595	14	14	14	0	3
+flurazepam	DB00690	13	13	13	11	3
+gefitinib	DB00317	13	1	1	1	13
+amiloride	DB00594	13	8	10	3	4
+estradiol valerate	DB13956	13	8	2	1	7
+terconazole	DB00251	13	0	0	0	13
+pipamperone	DB09286	13	8	3	0	10
+bromazepam	DB01558	13	13	13	1	3
+iron	DB01592	13	13	0	0	0
+vorinostat	DB02546	13	5	9	4	13
+quazepam	DB01589	13	10	13	11	5
+clemastine	DB00283	13	0	0	0	13
+methyprylon	DB01107	13	1	13	11	3
+methotrimeprazine	DB01403	13	12	8	3	0
+mibefradil	DB01388	13	7	5	1	5
+halazepam	DB00801	13	11	13	11	11
+estradiol benzoate	DB13953	13	8	0	0	6
+adipiplon	DB06579	13	0	13	11	0
+ruxolitinib	DB08877	13	2	4	2	13
+meprobamate	DB00371	13	5	13	11	5
+picrotoxin	DB00466	13	3	13	0	0
+levorphanol	DB00854	13	3	2	1	13
+ibuprofen	DB01050	13	8	4	2	4
+valdecoxib	DB00580	13	3	3	1	12
+disulfiram	DB00822	13	1	1	1	13
+progesterone	DB00396	13	9	6	1	6
+caffeine	DB00201	13	9	5	3	6
+fospropofol	DB06716	13	2	4	0	11
+prazepam	DB01588	13	11	13	11	3
+clobazam	DB00349	13	0	13	11	3
+nefazodone	DB01149	13	10	8	4	9
+amlodipine	DB00381	13	7	6	3	9
+cisapride	DB00604	13	2	0	0	13
+mifepristone	DB00834	13	4	3	2	11
+ketoconazole	DB01026	13	4	0	0	10
+marimastat	DB00786	13	13	5	5	0
+menadione	DB00170	13	10	10	0	2
+nicardipine	DB00622	13	10	1	3	4
+ropinirole	DB00268	13	11	5	3	6
+dovitinib	DB05928	13	0	13	8	0
+procainamide	DB01035	12	3	2	7	11
+l-cysteine	DB00151	12	12	0	0	0
+methylphenobarbital	DB00849	12	10	1	0	3
+tofacitinib	DB08895	12	4	2	4	11
+arsenic trioxide	DB01169	12	10	8	1	2
+mezlocillin	DB00948	12	0	0	0	12
+diltiazem	DB00343	12	1	4	3	7
+nitrendipine	DB01054	12	5	5	0	7
+riluzole	DB00740	12	2	10	7	3
+ivermectin	DB00602	12	1	3	0	8
+labetalol	DB00598	12	3	5	6	8
+perphenazine	DB00850	12	3	6	1	8
+montelukast	DB00471	12	1	1	0	11
+valproic acid	DB00313	12	9	7	1	3
+gaboxadol	DB06554	12	0	12	8	0
+cinolazepam	DB01594	12	11	12	0	0
+belinostat	DB05015	12	1	12	11	11
+buspirone	DB00490	12	2	3	1	11
+prazosin	DB00457	12	5	5	3	11
+salicylic acid	DB00936	12	3	4	0	7
+sulconazole	DB06820	12	0	0	0	12
+safinamide	DB06654	12	1	12	1	1
+emricasan	DB05408	12	3	12	12	0
+eszopiclone	DB00402	12	4	12	11	6
+vardenafil	DB00862	12	2	0	0	10
+nafamostat	DB12598	12	5	7	0	5
+lenvatinib	DB09078	12	8	7	3	9
+progabide	DB00837	12	2	2	0	11
+ethinyl estradiol	DB00977	12	3	1	1	10
+diclofenac	DB00586	12	7	5	2	4
+trimipramine	DB00726	12	11	3	7	3
+nimodipine	DB00393	12	8	6	4	5
+papaverine	DB01113	12	2	3	0	10
+flunitrazepam	DB01544	12	8	6	11	6
+lidocaine	DB00281	12	6	10	7	0
+pentamidine	DB00738	12	1	0	0	11
+fluspirilene	DB04842	12	3	4	0	10
+thiothixene	DB01623	12	3	2	2	12
+thimerosal	DB11590	12	2	0	0	10
+cytarabine	DB00987	12	1	4	11	3
+citalopram	DB00215	11	3	2	1	10
+epinephrine	DB00668	11	9	6	6	8
+patupilone	DB03010	11	11	0	0	0
+pracinostat	DB05223	11	4	11	0	0
+tetracaine	DB09085	11	1	7	7	7
+phenytoin	DB00252	11	5	9	7	6
+l-alanine	DB00160	11	11	1	0	0
+mitoxantrone	DB01204	11	1	3	1	9
+mesoridazine	DB00933	11	2	9	2	8
+iloprost	DB01088	11	6	6	1	6
+mesalazine	DB00244	11	6	11	4	4
+furosemide	DB00695	11	2	2	1	11
+doxazosin	DB00590	11	4	3	3	11
+methaqualone	DB04833	11	0	0	11	9
+pagoclone	DB04903	11	2	2	11	0
+flumazenil	DB01205	11	2	11	11	11
+icosapent	DB00159	11	10	4	0	3
+thiamylal	DB01154	11	1	1	11	11
+rosiglitazone	DB00412	11	7	2	1	5
+acetylcysteine	DB06151	11	10	0	0	1
+ergonovine	DB01253	11	1	1	0	9
+etomidate	DB00292	11	1	11	11	4
+pseudoephedrine	DB00852	11	10	7	1	4
+oxtriphylline	DB01303	11	5	9	0	10
+panobinostat	DB06603	11	1	11	11	11
+quinacrine	DB01103	11	1	0	0	10
+glutethimide	DB01437	11	1	11	11	3
+trichlormethiazide	DB01021	11	5	6	1	8
+clomethiazole	DB06470	11	1	0	11	3
+sertraline	DB01104	11	3	2	1	11
+dexamethasone	DB01234	11	5	4	1	6
+epothilone d	DB01873	11	11	1	0	0
+propranolol	DB00571	11	4	4	2	10
+pramipexole	DB00413	11	11	3	3	5
+ingenol mebutate	DB05013	11	2	11	0	1
+indomethacin	DB00328	11	7	4	2	6
+ganaxolone	DB05087	11	5	5	11	0
+ketotifen	DB00920	11	1	1	0	9
+troxacitabine	DB04961	11	0	0	11	0
+mexiletine	DB00379	11	2	3	7	7
+nisoldipine	DB00401	11	4	5	3	7
+fludiazepam	DB01567	11	11	11	0	0
+zimelidine	DB04832	11	2	0	7	3
+ethchlorvynol	DB00189	11	0	11	11	3
+prasterone	DB01708	11	11	1	0	0
+cyclosporine	DB00091	11	4	7	1	4
+perhexiline	DB01074	11	3	3	3	7
+vitamin a	DB00162	11	10	1	0	0
+delorazepam	DB01511	11	0	0	0	11
+cladribine	DB00242	11	9	1	0	1
+benzatropine	DB00245	11	2	2	1	11
+proparacaine	DB00807	11	1	5	7	5
+benzethonium	DB11125	11	0	0	0	11
+cannabidiol	DB09061	11	11	1	0	0
+hexobarbital	DB01355	11	9	9	0	5
+thiethylperazine	DB00372	11	3	6	1	10
+disopyramide	DB00280	11	5	2	7	3
+galantamine	DB00674	11	11	1	1	2
+pyrimethamine	DB00205	11	2	9	0	2
+phenelzine	DB00780	10	4	6	1	5
+reserpine	DB00206	10	1	0	0	9
+chlorthalidone	DB00310	10	1	6	1	9
+vinorelbine	DB00361	10	1	0	0	10
+tropisetron	DB11699	10	0	1	0	9
+amisulpride	DB06288	10	3	2	9	6
+phenoxybenzamine	DB00925	10	6	2	4	5
+fenofibrate	DB01039	10	4	1	1	8
+thalidomide	DB01041	10	5	8	4	4
+spironolactone	DB00421	10	7	3	1	5
+methamphetamine	DB01577	10	5	8	3	6
+alpha-linolenic acid	DB00132	10	9	0	0	3
+methadone	DB00333	10	5	6	1	5
+nicotine	DB00184	10	6	3	2	8
+lapatinib	DB01259	10	2	6	2	6
+cyclizine	DB01176	10	1	0	0	9
+oxymetazoline	DB00935	10	4	5	4	10
+mitotane	DB00648	10	4	2	1	6
+dorzolamide	DB00869	10	4	6	1	8
+levodopa	DB01235	10	5	7	1	5
+dicyclomine	DB00804	10	1	1	1	10
+aminophylline	DB01223	10	3	9	0	0
+sulpiride	DB00391	10	4	5	0	9
+lindane	DB00431	10	7	0	0	5
+nelfinavir	DB00220	10	0	0	0	10
+apremilast	DB05676	9	5	7	4	3
+clonidine	DB00575	9	4	2	1	8
+propiomazine	DB00777	9	9	9	0	6
+choline	DB00122	9	9	0	0	0
+losartan	DB00678	9	1	1	1	9
+dimenhydrinate	DB00985	9	0	0	0	9
+protriptyline	DB00344	9	2	3	2	8
+metoclopramide	DB01233	9	3	3	1	7
+amlexanox	DB01025	9	3	6	4	4
+norepinephrine	DB00368	9	7	4	6	8
+captopril	DB01197	9	5	1	1	5
+palbociclib	DB09073	9	2	7	3	5
+heptabarbital	DB01354	9	9	0	0	0
+vortioxetine	DB09068	9	4	7	2	7
+cyclothiazide	DB00606	9	4	5	1	5
+dipivefrin	DB00449	9	5	2	6	0
+biotin	DB00121	9	9	0	0	0
+varenicline	DB01273	9	5	4	2	7
+dextropropoxyphene	DB00647	9	4	6	1	3
+brigatinib	DB12267	9	9	4	2	0
+diphenidol	DB01231	9	1	2	1	8
+tetrahydrofolic acid	DB00116	9	9	0	0	0
+pyruvic acid	DB00119	9	8	2	0	0
+amantadine	DB00915	9	2	0	7	8
+afatinib	DB08916	9	3	2	3	9
+haloprogin	DB00793	9	0	0	0	9
+niclosamide	DB06803	9	0	0	0	9
+flupentixol	DB00875	9	5	4	0	7
+hyaluronic acid	DB08818	9	9	0	0	0
+ornithine	DB00129	9	9	0	0	0
+alitretinoin	DB00523	9	8	7	6	6
+phenylpropanolamine	DB00397	9	3	0	0	6
+hydroflumethiazide	DB00774	9	8	2	1	1
+molindone	DB01618	9	4	2	2	8
+prilocaine	DB00750	9	1	9	7	3
+amphetamine	DB00182	9	6	5	2	5
+indapamide	DB00808	9	1	2	1	8
+procyclidine	DB00387	9	1	2	1	8
+mepyramine	DB06691	9	0	1	0	8
+alendronic acid	DB00630	9	5	7	1	1
+methylergometrine	DB00353	9	2	5	2	8
+chloroprocaine	DB01161	9	3	1	7	1
+butethal	DB01353	9	9	9	0	0
+duloxetine	DB00476	9	3	5	2	8
+acetazolamide	DB00819	9	7	5	4	8
+encainide	DB01228	8	1	2	7	1
+fenoldopam	DB00800	8	6	4	1	5
+probenecid	DB01032	8	1	3	2	6
+chlorphenamine	DB01114	8	3	0	0	8
+copanlisib	DB12483	8	2	8	8	0
+methazolamide	DB00703	8	4	0	0	8
+desloratadine	DB00967	8	0	0	0	8
+rufinamide	DB06201	8	1	7	7	7
+l-citrulline	DB00155	8	8	0	0	0
+sumatriptan	DB00669	8	2	6	1	4
+cisplatin	DB00515	8	4	0	0	4
+mafenide	DB06795	8	1	1	0	7
+triethylenetetramine	DB06824	8	0	0	0	8
+diclofenamide	DB01144	8	4	4	4	7
+gadobenic acid	DB00743	8	0	8	0	0
+minaprine	DB00805	8	8	6	4	2
+eslicarbazepine acetate	DB09119	8	1	7	7	7
+bezafibrate	DB01393	8	7	1	3	3
+acitretin	DB00459	8	7	7	6	2
+melperone	DB09224	8	1	0	0	8
+tacrine	DB00382	8	3	2	2	7
+vilazodone	DB06684	8	1	4	2	8
+niflumic acid	DB04552	8	5	5	0	3
+isoprenaline	DB01064	8	7	3	2	2
+sulfanilamide	DB00259	8	0	0	0	8
+estradiol cypionate	DB13954	8	8	1	1	1
+phosphatidyl serine	DB00144	8	8	0	0	0
+glyburide	DB01016	8	4	4	0	3
+oxcarbazepine	DB00776	8	1	8	7	1
+dyphylline	DB00651	8	7	6	5	2
+zolpidem	DB00425	8	5	4	3	6
+phenol	DB03255	8	1	0	0	7
+cariprazine	DB06016	8	5	2	2	8
+dosulepin	DB09167	8	6	3	0	6
+epicept np-1	DB05492	8	8	0	0	0
+cediranib	DB04849	8	1	8	6	0
+ethotoin	DB00754	8	2	7	7	7
+lenalidomide	DB00480	8	4	6	4	2
+cycloserine	DB00260	8	0	0	0	8
+brinzolamide	DB01194	8	4	4	1	7
+memantine	DB01043	8	5	4	7	4
+flibanserin	DB04908	8	3	3	0	6
+felbamate	DB00949	8	3	8	7	2
+estradiol acetate	DB13952	8	8	1	1	1
+auranofin	DB00995	8	2	1	0	6
+hesperetin	DB01094	8	4	1	0	3
+lovastatin	DB00227	8	3	1	1	8
+vitamin e	DB00163	8	8	0	0	0
+seliciclib	DB06195	8	7	5	5	0
+naloxone	DB01183	8	7	4	3	3
+pyrithione zinc	DB06815	8	0	0	0	8
+meclofenamic acid	DB00939	8	5	4	3	5
+polaprezinc	DB09221	8	8	0	0	0
+dexibuprofen	DB09213	8	8	0	2	2
+dextroamphetamine	DB01576	8	4	4	2	6
+metaraminol	DB00610	8	1	6	3	1
+ethoxzolamide	DB00311	8	4	8	8	8
+mephenytoin	DB00532	8	2	7	7	7
+phenacemide	DB01121	7	1	7	7	1
+afimoxifene	DB04468	7	7	2	0	0
+chlorprothixene	DB01239	7	7	0	0	5
+dyclonine	DB00645	7	1	2	7	1
+oxybuprocaine	DB00892	7	1	1	7	4
+zaleplon	DB00962	7	2	4	3	5
+fosphenytoin	DB01320	7	1	1	7	1
+ademetionine	DB00118	7	7	0	0	0
+zoledronic acid	DB00399	7	2	2	1	6
+decamethonium	DB01245	7	3	0	4	5
+n-acetylglucosamine	DB00141	7	7	1	0	0
+l-phenylalanine	DB00120	7	7	1	0	0
+nitric oxide	DB00435	7	3	5	3	3
+ibudilast	DB05266	7	5	6	0	4
+indecainide	DB00192	7	1	1	7	1
+flavoxate	DB01148	7	1	1	5	6
+atorvastatin	DB01076	7	3	1	1	5
+warfarin	DB00682	7	2	5	1	2
+pindolol	DB00960	7	4	5	2	7
+fluciclovine (18f)	DB13146	7	7	0	0	0
+norfloxacin	DB01059	7	1	1	0	5
+l-carnitine	DB00583	7	6	1	0	0
+moricizine	DB00680	7	1	1	7	1
+benzquinamide	DB00767	7	1	4	1	4
+vatalanib	DB04879	7	3	7	7	0
+ropivacaine	DB00296	7	1	1	7	7
+propoxycaine	DB09342	7	0	0	7	3
+sulindac	DB00605	7	6	2	2	3
+cns-5161	DB05824	7	1	7	7	0
+quinine	DB00468	7	2	1	0	5
+droxidopa	DB06262	7	7	5	6	6
+doxorubicin	DB00997	7	2	1	1	6
+hydrochlorothiazide	DB00999	7	7	1	1	5
+l-arginine	DB00125	7	7	0	0	0
+melatonin	DB01065	7	6	3	0	3
+atropine	DB00572	7	3	2	1	4
+tarenflurbil	DB05289	7	1	5	6	0
+dapiprazole	DB00298	7	3	3	1	7
+benzthiazide	DB00562	7	6	2	1	5
+tramadol	DB00193	7	7	0	0	5
+digitoxin	DB01396	7	1	6	6	7
+bupropion	DB01156	7	3	3	2	6
+tromethamine	DB03754	7	6	2	0	0
+etizolam	DB09166	7	5	0	0	6
+naproxen	DB00788	7	2	7	2	2
+dabigatran etexilate	DB06695	7	1	0	1	7
+mepivacaine	DB00961	7	1	1	7	6
+thioproperazine	DB01622	7	6	0	0	2
+ondansetron	DB00904	7	3	0	0	4
+mephentermine	DB01365	7	0	2	6	1
+acepromazine	DB01614	7	6	2	0	0
+potassium	DB01345	7	2	4	0	1
+amuvatinib	DB12742	7	6	7	4	0
+hexylcaine	DB00473	7	2	2	7	3
+tocainide	DB01056	7	1	1	7	7
+guanfacine	DB01018	7	1	2	1	6
+dinoprostone	DB00917	7	3	6	3	6
+zopiclone	DB01198	7	4	4	0	5
+bendroflumethiazide	DB00436	7	5	3	1	5
+digoxin	DB00390	7	1	6	6	7
+pyrazinamide	DB00339	7	0	4	0	3
+cyclobenzaprine	DB00924	7	1	1	2	7
+phenazopyridine	DB01438	7	1	0	7	7
+brexpiprazole	DB09128	7	4	3	3	7
+neramexane	DB04926	7	1	3	7	0
+saquinavir	DB01232	7	0	0	0	7
+treprostinil	DB00374	7	2	6	1	5
+amsacrine	DB00276	7	4	1	2	5
+guanabenz	DB00629	7	1	1	1	7
+nimesulide	DB04743	7	2	3	0	5
+diacerein	DB11994	7	5	2	0	0
+donepezil	DB00843	7	2	1	1	6
+spermine	DB00127	7	6	2	0	0
+minocycline	DB01017	7	7	0	0	0
+hydroquinone	DB09526	7	0	0	0	7
+milrinone	DB00235	7	1	4	1	7
+bexarotene	DB00307	7	3	4	3	7
+amrinone	DB01427	7	3	3	1	6
+tamsulosin	DB00706	7	3	3	3	7
+acetyldigitoxin	DB00511	6	1	6	6	6
+etoperidone	DB09194	6	4	0	0	3
+zuclopenthixol	DB01624	6	6	0	0	4
+succinylcholine	DB00202	6	1	3	4	4
+tandutinib	DB05465	6	1	6	3	0
+acetic acid	DB03166	6	0	4	0	2
+primaquine	DB01087	6	2	1	0	3
+l-asparagine	DB00174	6	6	0	0	0
+phenmetrazine	DB00830	6	2	6	2	2
+cinchocaine	DB00527	6	3	2	2	5
+remoxipride	DB00409	6	5	1	1	5
+norethisterone	DB00717	6	1	2	1	5
+pancuronium	DB01337	6	0	1	4	6
+doconexent	DB03756	6	6	0	0	0
+isradipine	DB00270	6	4	5	3	3
+bethanidine	DB00217	6	1	5	1	1
+lonafarnib	DB06448	6	2	5	2	0
+modafinil	DB00745	6	2	4	1	3
+edrophonium	DB01010	6	2	5	1	1
+tranylcypromine	DB00752	6	1	3	0	4
+bendamustine	DB06769	6	0	0	0	6
+rotigotine	DB05271	6	6	6	3	3
+adapalene	DB00210	6	6	6	3	3
+mercaptopurine	DB01033	6	3	2	1	3
+indacaterol	DB05039	6	1	3	1	4
+propericiazine	DB01608	6	4	4	0	0
+mecamylamine	DB00657	6	3	1	1	5
+masoprocol	DB00179	6	2	1	0	5
+vecuronium	DB01339	6	0	0	4	6
+semaxanib	DB06436	6	1	6	4	0
+escitalopram	DB01175	6	5	1	1	5
+pipecuronium	DB01338	6	0	0	4	5
+terazosin	DB01162	6	4	3	3	6
+hydroxyamphetamine	DB09352	6	0	0	6	0
+hydralazine	DB01275	6	2	1	0	4
+oxybutynin	DB01062	6	1	1	0	6
+nitroglycerin	DB00727	6	1	6	3	4
+lacidipine	DB09236	6	1	0	0	5
+rizatriptan	DB00953	6	1	4	1	4
+dexanabinol	DB06444	6	1	5	0	0
+folic acid	DB00158	6	3	3	0	1
+rabeprazole	DB01129	6	1	4	2	4
+creatine	DB00148	6	6	0	0	0
+methyclothiazide	DB00232	6	4	3	1	0
+agmatine	DB08838	6	6	1	0	0
+butenafine	DB01091	6	1	0	0	5
+etretinate	DB00926	6	6	6	6	2
+tolazoline	DB00797	6	2	4	4	2
+ibutilide	DB00308	6	6	4	1	1
+tenocyclidine	DB01520	6	6	0	0	0
+xanthinol	DB09092	6	6	0	0	0
+hydroxocobalamin	DB00200	6	6	0	0	0
+gallamine triethiodide	DB00483	6	2	4	0	0
+pirfenidone	DB04951	6	1	5	0	0
+candesartan cilexetil	DB00796	6	1	2	1	5
+pomalidomide	DB08910	6	3	4	4	1
+thiocolchicoside	DB11582	6	1	0	0	5
+estrone	DB00655	6	4	1	1	4
+perospirone	DB08922	6	5	3	0	2
+talmapimod	DB05412	6	4	3	1	0
+levonorgestrel	DB00367	6	4	2	1	4
+alprostadil	DB00770	6	1	4	1	5
+doxycycline	DB00254	6	2	2	4	2
+debrisoquin	DB04840	6	1	4	1	1
+phosphocreatine	DB13191	6	6	0	0	0
+cabozantinib	DB08875	6	3	3	2	6
+osimertinib	DB09330	6	1	1	4	3
+isosorbide dinitrate	DB00883	6	1	6	3	4
+deslanoside	DB01078	6	1	6	6	6
+hydrocortisone	DB00741	6	3	4	1	1
+kappadione	DB09332	6	6	0	0	0
+itraconazole	DB01167	6	1	1	0	4
+testosterone	DB00624	6	3	1	1	4
+bopindolol	DB08807	6	4	0	0	5
+triamterene	DB00384	6	4	5	3	4
+tadalafil	DB00820	6	0	1	0	5
+irinotecan	DB00762	5	2	3	1	3
+xylometazoline	DB06694	5	4	0	0	4
+sulfinpyrazone	DB01138	5	2	4	1	1
+leucovorin	DB00650	5	0	4	0	2
+acetylcholine	DB03128	5	3	1	0	3
+capsaicin	DB06774	5	2	2	1	3
+ketobemidone	DB06738	5	4	0	0	4
+fludarabine	DB01073	5	3	5	0	3
+ofloxacin	DB01165	5	1	1	0	3
+esmolol	DB00187	5	1	4	2	1
+fluvoxamine	DB00176	5	2	1	1	4
+mmda	DB01442	5	5	0	0	0
+bumetanide	DB00887	5	4	3	1	3
+methylphenidate	DB00422	5	3	4	2	4
+diflunisal	DB00861	5	2	2	2	5
+phenylephrine	DB00388	5	3	4	3	4
+guanethidine	DB01170	5	1	1	1	5
+blonanserin	DB09223	5	3	2	0	4
+azathioprine	DB00993	5	2	1	1	2
+lithium	DB01356	5	4	0	0	3
+hydroxyurea	DB01005	5	1	3	3	4
+mefloquine	DB00358	5	2	1	0	3
+l-isoleucine	DB00167	5	5	0	0	0
+baricitinib	DB11817	5	4	2	2	4
+clenbuterol	DB01407	5	4	1	1	3
+icosapent ethyl	DB08887	5	0	4	0	1
+moclobemide	DB01171	5	1	3	0	3
+fluoxymesterone	DB01185	5	5	1	1	1
+leflunomide	DB01097	5	3	1	1	3
+nitroprusside	DB00325	5	1	2	0	4
+andrographolide	DB05767	5	5	0	0	0
+cytisine	DB09028	5	5	0	0	0
+ketazolam	DB01587	5	5	0	0	0
+bifeprunox	DB04888	5	2	5	2	0
+ribavirin	DB00811	5	4	2	1	3
+gestrinone	DB11619	5	5	0	0	0
+ritonavir	DB00503	5	1	2	0	3
+ethambutol	DB00330	5	0	0	0	5
+pentazocine	DB00652	5	3	3	0	4
+riociguat	DB08931	5	1	4	3	2
+atomoxetine	DB00289	5	4	3	1	4
+naphazoline	DB06711	5	2	0	4	2
+venlafaxine	DB00285	5	3	2	2	5
+flecainide	DB01195	5	3	2	1	5
+pioglitazone	DB01132	5	4	2	1	4
+quinethazone	DB01325	5	5	1	1	1
+chlorothiazide	DB00880	5	4	5	1	2
+hydroxychloroquine	DB01611	5	2	3	2	4
+etacrynic acid	DB00903	5	4	2	1	1
+gallium nitrate	DB05260	5	3	4	3	0
+ketoprofen	DB01009	5	3	4	2	2
+magnesium sulfate	DB00653	5	5	0	0	0
+tacrolimus	DB00864	5	1	1	1	5
+mebendazole	DB00643	5	2	3	0	2
+l-leucine	DB00149	5	5	0	0	0
+phendimetrazine	DB01579	5	3	2	0	3
+agomelatine	DB06594	5	3	5	3	5
+potassium chloride	DB00761	5	0	4	0	1
+methylene blue	DB09241	5	2	0	0	3
+tianeptine	DB09289	5	3	1	0	1
+talampanel	DB04982	5	4	5	0	0
+milnacipran	DB04896	5	3	0	0	4
+crisaborole	DB05219	5	4	5	4	5
+dabrafenib	DB08912	5	5	1	1	2
+tapentadol	DB06204	5	5	2	2	2
+brimonidine	DB00484	5	1	1	1	5
+minoxidil	DB00350	5	3	3	1	1
+ticlopidine	DB00208	5	0	1	0	4
+diazoxide	DB01119	5	5	1	0	0
+benzydamine	DB09084	5	0	0	2	3
+levobunolol	DB01210	5	2	2	2	5
+enoximone	DB04880	5	1	1	0	5
+fentanyl	DB00813	5	3	3	1	5
+2-methoxyestradiol	DB02342	5	4	1	0	0
+tetrabenazine	DB04844	5	1	0	0	5
+phenolphthalein	DB04824	5	4	0	0	1
+rofecoxib	DB00533	5	2	2	1	3
+apraclonidine	DB00964	5	2	2	1	4
+levobupivacaine	DB01002	5	1	1	1	4
+octreotide	DB00104	5	3	4	4	5
+miglitol	DB00491	5	3	3	2	3
+levosimendan	DB00922	5	2	1	5	2
+cyproterone acetate	DB04839	5	2	1	3	4
+enprofylline	DB00824	5	5	2	0	4
+chloroquine	DB00608	5	3	1	0	1
+manganese	DB06757	5	5	0	0	0
+sucralfate	DB00364	5	5	0	0	0
+fenofibric acid	DB13873	5	4	2	1	0
+brompheniramine	DB00835	5	1	0	0	4
+clevidipine	DB04920	5	3	5	3	2
+dexmedetomidine	DB00633	5	1	2	1	4
+isosorbide mononitrate	DB01020	5	1	5	3	4
+acarbose	DB00284	5	3	5	2	3
+trametinib	DB08911	5	2	5	2	2
+tiapride	DB13025	5	3	1	0	3
+epinastine	DB00751	5	3	1	0	4
+mazindol	DB00579	5	3	3	3	4
+triflupromazine	DB00508	5	4	4	1	2
+levetiracetam	DB01202	5	2	4	2	4
+mivacurium	DB01226	5	1	0	4	3
+tolfenamic acid	DB09216	5	2	1	0	4
+prednisolone	DB00860	5	1	3	1	4
+trihexyphenidyl	DB00376	5	1	4	1	2
+nitrous acid	DB09112	5	3	0	0	2
+carphenazine	DB01038	5	3	3	3	2
+lurasidone	DB08815	5	4	5	2	4
+bupivacaine	DB00297	5	1	3	1	4
+estriol	DB04573	5	3	1	0	4
+betaxolol	DB00195	4	2	4	1	2
+olsalazine	DB01250	4	0	0	4	4
+idelalisib	DB09054	4	0	4	1	1
+pipotiazine	DB01621	4	4	1	0	0
+ethopropazine	DB00392	4	2	1	1	4
+lucanthone	DB04967	4	3	1	0	0
+darifenacin	DB00496	4	1	1	0	4
+golotimod	DB05475	4	4	0	0	0
+terbinafine	DB00857	4	1	1	0	3
+rifampicin	DB01045	4	3	1	0	0
+hydroxyprogesterone caproate	DB06789	4	1	2	1	3
+tegaserod	DB01079	4	3	1	0	2
+aurothioglucose	DB09121	4	3	0	0	1
+penbutolol	DB01359	4	4	2	2	3
+chenodeoxycholic acid	DB06777	4	3	2	1	1
+deserpidine	DB01089	4	0	4	0	0
+ximelagatran	DB04898	4	1	1	1	4
+norelgestromin	DB06713	4	3	2	1	1
+dotarizine	DB06446	4	4	0	0	0
+omeprazole	DB00338	4	2	2	2	3
+amoxicillin	DB01060	4	0	1	0	3
+balsalazide	DB01014	4	4	4	4	4
+lorcaserin	DB04871	4	1	3	1	4
+prinomastat	DB05100	4	0	4	0	0
+doxacurium chloride	DB01135	4	0	4	0	0
+buprenorphine	DB00921	4	3	0	0	4
+ursodeoxycholic acid	DB01586	4	2	4	1	1
+tazarotene	DB00799	4	4	4	3	3
+etodolac	DB00749	4	3	3	1	2
+bretylium	DB01158	4	1	0	1	3
+pramocaine	DB09345	4	0	0	0	4
+carbachol	DB00411	4	2	0	0	3
+estramustine	DB01196	4	4	0	0	0
+colchicine	DB01394	4	2	0	0	3
+ephedrine	DB01364	4	3	2	0	1
+desvenlafaxine	DB06700	4	2	4	2	3
+clofibrate	DB00636	4	1	4	1	1
+sodium lauryl sulfate	DB00815	4	0	4	0	0
+tofisopam	DB08811	4	4	0	0	0
+metocurine iodide	DB00416	4	0	4	0	0
+metocurine	DB01336	4	0	4	4	0
+triclosan	DB08604	4	4	0	0	0
+nilvadipine	DB06712	4	4	0	0	2
+lercanidipine	DB00528	4	1	2	0	2
+lormetazepam	DB13872	4	4	0	0	0
+fulvestrant	DB00947	4	1	0	0	4
+epoprostenol	DB01240	4	2	3	1	2
+dihydromorphine	DB01565	4	4	3	0	0
+diprenorphine	DB01548	4	4	3	0	0
+benidipine	DB09231	4	2	0	0	2
+methyldopa	DB00968	4	2	1	1	4
+loratadine	DB00455	4	1	1	0	3
+l-lysine	DB00123	4	3	0	0	1
+oxybenzone	DB01428	4	4	0	0	0
+azd-8330	DB06061	4	1	3	2	0
+megestrol acetate	DB00351	4	2	3	1	2
+irbesartan	DB01029	4	2	2	1	2
+dicloxacillin	DB00485	4	0	1	0	3
+methionine	DB00134	4	4	0	0	0
+nateglinide	DB00731	4	1	2	0	1
+pasireotide	DB06663	4	4	0	0	4
+glipizide	DB01067	4	1	3	0	0
+pemetrexed	DB00642	4	4	0	3	2
+misoprostol	DB00929	4	3	4	1	3
+reboxetine	DB00234	4	1	0	0	4
+alfuzosin	DB00346	4	4	3	3	3
+tibolone	DB09070	4	1	0	0	4
+dilmapimod	DB12140	4	3	1	1	0
+bicifadine	DB04889	4	3	1	0	0
+piroxicam	DB00554	4	2	4	2	2
+tetryzoline	DB06764	4	1	0	4	4
+fg-2216	DB08687	4	2	3	0	0
+l-glutamine	DB00130	4	3	1	0	0
+oxycodone	DB00497	4	4	3	1	3
+niacin	DB00627	4	2	4	0	0
+tiludronic acid	DB01133	4	2	2	0	1
+tioguanine	DB00352	4	0	2	2	4
+ketorolac	DB00465	4	2	4	2	2
+carteolol	DB00521	4	2	4	2	2
+dapoxetine	DB04884	4	3	1	1	1
+ranolazine	DB00243	4	1	3	2	2
+roflumilast	DB01656	4	4	4	4	4
+morphine	DB00295	4	4	3	1	3
+cyclopentolate	DB00979	4	1	4	0	0
+neratinib	DB11828	4	1	2	4	0
+cobimetinib	DB05239	4	1	4	2	2
+mefenamic acid	DB00784	4	2	3	2	3
+heroin	DB01452	4	4	0	0	0
+etoricoxib	DB01628	4	1	2	1	3
+levothyroxine	DB00451	4	2	2	2	4
+azithromycin	DB00207	4	1	2	0	1
+lisdexamfetamine	DB01255	4	2	3	2	2
+ouabain	DB01092	4	3	1	0	2
+sodium carbonate	DB09460	4	4	0	0	0
+epirubicin	DB00445	4	2	3	0	1
+imiquimod	DB00724	4	2	1	1	3
+orlistat	DB01083	4	3	4	2	2
+diiodohydroxyquinoline	DB09115	4	0	0	0	4
+alectinib	DB11363	4	1	2	2	3
+hydromorphone	DB00327	4	3	4	1	3
+isotretinoin	DB00982	4	1	3	3	3
+flurbiprofen	DB00712	4	2	4	2	2
+tetrodotoxin	DB05232	4	4	0	0	0
+fluticasone propionate	DB00588	4	4	2	1	2
+triflusal	DB08814	4	4	0	0	0
+taurine	DB01956	4	3	1	0	0
+rapacuronium	DB04834	4	0	0	4	4
+probucol	DB01599	4	2	2	1	2
+fenoprofen	DB00573	4	4	2	2	2
+cyanocobalamin	DB00115	4	4	0	0	0
+venetoclax	DB11581	4	1	4	1	1
+everolimus	DB01590	4	1	4	1	2
+lorpiprazole	DB09195	4	4	0	0	0
+eugenol	DB09086	4	3	0	0	1
+lomitapide	DB08827	4	1	3	2	1
+fludrocortisone	DB00687	4	3	2	0	2
+aminosalicylic acid	DB00233	4	3	0	2	2
+selegiline	DB01037	4	1	3	1	2
+abiraterone	DB05812	4	1	1	3	2
+l-tyrosine	DB00135	4	4	1	0	0
+cisatracurium besylate	DB00565	4	0	4	0	0
+somatostatin	DB09099	4	0	0	0	4
+olopatadine	DB00768	4	4	0	0	0
+perampanel	DB08883	4	1	4	4	4
+clodronic acid	DB00720	4	3	2	0	0
+tolrestat	DB02383	4	3	2	1	1
+pranlukast	DB01411	4	3	1	0	0
+cyclophosphamide	DB00531	4	1	2	0	1
+benzphetamine	DB00865	4	3	0	1	3
+sparfloxacin	DB01208	4	1	2	0	1
+ribociclib	DB11730	4	2	4	2	2
+eltrombopag	DB06210	4	1	4	1	1
+fomepizole	DB01213	4	3	3	2	2
+moxisylyte	DB09205	4	0	0	4	0
+lanreotide	DB06791	4	2	4	2	4
+eletriptan	DB00216	4	4	3	1	2
+atracurium besylate	DB00732	4	0	4	0	0
+physostigmine	DB00981	4	3	2	0	2
+pheniramine	DB01620	4	1	0	0	3
+naltrexone	DB00704	4	3	4	3	3
+sirolimus	DB00877	4	3	3	1	3
+alprenolol	DB00866	4	3	2	0	3
+vidarabine	DB00194	4	0	0	0	4
+granisetron	DB00889	4	0	0	0	4
+cilnidipine	DB09232	4	2	1	0	2
+pyridostigmine	DB00545	4	3	3	1	2
+rocuronium	DB00728	4	0	0	4	4
+nalbuphine	DB00844	4	3	4	3	3
+flutamide	DB00499	4	3	2	1	1
+deoxycholic acid	DB03619	4	3	1	0	0
+phenylbutazone	DB00812	4	3	4	2	1
+telmisartan	DB00966	3	2	1	1	3
+acetophenazine	DB01063	3	3	2	1	1
+pantoprazole	DB00213	3	1	1	2	3
+glimepiride	DB00222	3	1	2	0	1
+midodrine	DB00211	3	3	2	3	1
+ezogabine	DB04953	3	3	3	3	3
+tanespimycin	DB05134	3	2	3	2	0
+tamibarotene	DB04942	3	2	2	0	3
+calcitriol	DB00136	3	3	1	1	1
+sodium ferric gluconate complex	DB09517	3	3	0	0	0
+ergocalciferol	DB00153	3	1	3	1	1
+sibutramine	DB01105	3	3	3	3	3
+nebivolol	DB04861	3	2	1	2	3
+rivanicline	DB05855	3	2	2	0	0
+oxygen	DB09140	3	3	0	0	0
+eluxadoline	DB09272	3	3	1	1	3
+colistin	DB00803	3	0	0	0	3
+vintafolide	DB05168	3	3	1	1	0
+gemfibrozil	DB01241	3	1	2	1	2
+pozanicline	DB05458	3	2	3	3	0
+sodium oxybate	DB09072	3	0	3	0	2
+norgestimate	DB00957	3	3	2	1	1
+antrafenine	DB01419	3	2	0	1	0
+midomafetamine	DB01454	3	3	0	0	0
+argatroban	DB00278	3	1	0	0	3
+propoxyphene napsylate	DB09396	3	3	0	0	0
+nabumetone	DB00461	3	2	2	1	3
+arotinolol	DB09204	3	3	0	0	0
+chlorpropamide	DB00672	3	0	3	0	0
+methoxamine	DB00723	3	3	2	3	3
+flupirtine	DB06623	3	1	0	0	2
+levomethadyl acetate	DB01227	3	2	1	1	2
+oxymetholone	DB06412	3	2	1	1	2
+azelastine	DB00972	3	0	0	0	3
+dicoumarol	DB00266	3	3	1	1	1
+butorphanol	DB00611	3	3	3	2	3
+glucosamine	DB01296	3	3	0	0	0
+viloxazine	DB09185	3	1	0	0	3
+beraprost	DB05229	3	1	0	0	3
+atenolol	DB00335	3	2	3	1	2
+dacarbazine	DB00851	3	2	2	0	0
+meloxicam	DB00814	3	2	3	1	2
+carfentanil	DB01535	3	3	0	0	0
+bambuterol	DB01408	3	1	2	0	3
+suprofen	DB00870	3	2	3	2	2
+triamcinolone	DB00620	3	1	2	1	2
+carisoprodol	DB00395	3	3	0	0	0
+lansoprazole	DB00448	3	2	2	2	2
+cilomilast	DB03849	3	2	1	0	0
+gw-501516	DB05416	3	2	3	0	0
+diflorasone	DB00223	3	1	3	0	1
+acetohexamide	DB00414	3	1	3	0	0
+miglustat	DB00419	3	1	1	1	3
+bevantolol	DB01295	3	3	1	0	1
+drotaverine	DB06751	3	2	0	0	2
+levomilnacipran	DB08918	3	2	3	2	3
+ethynodiol diacetate	DB00823	3	2	3	1	0
+rhein	DB13174	3	3	0	0	0
+salmeterol	DB00938	3	2	1	1	3
+anastrozole	DB01217	3	0	3	0	0
+idronoxil	DB04915	3	1	2	0	0
+toremifene	DB00539	3	2	2	2	1
+roxadustat	DB04847	3	3	3	3	0
+alvimopan	DB06274	3	3	3	1	3
+phentermine	DB00191	3	3	3	1	2
+methotrexate	DB00563	3	0	2	1	2
+vernakalant	DB06217	3	3	0	0	1
+tesmilifene	DB04905	3	1	3	0	0
+erythromycin	DB00199	3	2	1	0	1
+remifentanil	DB00899	3	3	1	1	1
+tirofiban	DB00775	3	2	3	2	2
+bismuth subsalicylate	DB01294	3	0	3	2	2
+silodosin	DB06207	3	3	2	1	3
+ferric pyrophosphate	DB09147	3	3	0	0	0
+lumateperone	DB06077	3	2	0	3	0
+sodium sulfate	DB09472	3	2	1	0	0
+levofloxacin	DB01137	3	1	1	0	1
+lesinurad	DB11560	3	2	2	1	2
+albendazole	DB00518	3	2	1	0	0
+migalastat	DB05018	3	1	1	1	3
+vemurafenib	DB08881	3	1	2	1	3
+trimethoprim	DB00440	3	2	2	0	1
+glycine betaine	DB06756	3	1	2	0	0
+desoximetasone	DB00547	3	1	3	1	1
+methylnaltrexone	DB06800	3	2	3	1	3
+desonide	DB01260	3	1	3	1	1
+esmirtazapine	DB06678	3	1	2	3	0
+glycodiazine	DB01382	3	1	3	0	0
+cefotetan	DB01330	3	0	0	0	3
+formoterol	DB00983	3	2	1	1	3
+fluorouracil	DB00544	3	0	3	1	1
+niraparib	DB11793	3	2	2	3	2
+pilocarpine	DB01085	3	1	3	1	1
+fenretinide	DB05076	3	0	3	0	0
+doxapram	DB00561	3	2	1	2	2
+drospirenone	DB01395	3	3	3	2	3
+tezacitabine	DB06433	3	1	3	3	0
+aceclofenac	DB06736	3	2	0	1	2
+naldemedine	DB11691	3	3	1	1	1
+mometasone	DB00764	3	2	2	0	2
+elafibranor	DB05187	3	3	0	0	0
+oseltamivir	DB00198	3	3	0	0	0
+aleglitazar	DB08915	3	3	2	2	0
+lumiracoxib	DB01283	3	2	2	1	2
+dexmethylphenidate	DB06701	3	3	2	2	2
+urea	DB03904	3	3	0	0	0
+motexafin gadolinium	DB05428	3	3	0	0	0
+oxymorphone	DB01192	3	2	2	3	3
+permethrin	DB04930	3	3	0	0	0
+parecoxib	DB08439	3	2	1	1	2
+anagrelide	DB00261	3	1	1	2	2
+exemestane	DB00990	3	0	2	0	1
+sufentanil	DB00708	3	3	3	1	3
+armodafinil	DB06413	3	1	1	1	3
+histidine	DB00117	3	3	0	0	0
+manidipine	DB09238	3	1	0	0	2
+vapreotide	DB04894	3	3	0	0	0
+ciprofloxacin	DB00537	3	2	0	0	2
+pimecrolimus	DB00337	3	2	2	1	2
+ixazomib	DB09570	3	0	1	0	3
+salbutamol	DB01001	3	2	2	1	2
+chromic chloride	DB09129	3	1	0	0	2
+tolmetin	DB00500	3	2	2	2	3
+carbidopa	DB00190	3	1	0	1	3
+phenserine	DB04892	3	3	1	0	0
+isoflurophate	DB00677	3	2	2	1	0
+limaprost	DB09211	3	3	0	0	0
+clofazimine	DB00845	3	0	3	0	0
+repaglinide	DB00912	3	1	1	0	1
+vadimezan	DB06235	3	0	3	0	0
+etidronic acid	DB01077	3	2	2	0	0
+carprofen	DB00821	3	2	2	1	2
+benzonatate	DB00868	3	1	3	0	1
+pimagedine	DB05383	3	3	1	0	0
+framycetin	DB00452	3	2	0	0	1
+hydrocodone	DB00956	3	2	3	3	2
+moxonidine	DB09242	3	2	0	1	3
+codeine	DB00318	3	3	3	3	3
+sapropterin	DB00360	3	3	3	1	1
+nedocromil	DB00716	3	3	0	0	0
+diphenoxylate	DB01081	3	2	1	1	2
+biricodar dicitrate	DB04851	3	3	0	0	0
+methyltestosterone	DB06710	3	2	1	1	2
+sotalol	DB00489	3	3	3	3	3
+arformoterol	DB01274	3	1	2	1	2
+scopolamine	DB00747	3	3	0	0	1
+prednicarbate	DB01130	3	1	3	1	1
+odanacatib	DB06670	3	1	3	1	0
+aranidipine	DB09229	3	3	0	0	2
+dofetilide	DB00204	3	1	3	1	2
+dequalinium	DB04209	3	2	1	0	0
+hydrocortamate	DB00769	3	1	3	1	1
+zidovudine	DB00495	3	1	0	0	2
+captodiame	DB09014	3	3	0	0	0
+sodium aurothiomalate	DB09276	3	0	0	0	3
+propacetamol	DB09288	3	3	0	0	0
+olcegepant	DB04869	3	2	3	1	0
+mestranol	DB01357	3	1	1	1	3
+eniluracil	DB03516	3	3	1	1	0
+binodenoson	DB04853	3	1	3	1	0
+pirbuterol	DB01291	3	2	2	1	1
+canertinib	DB05424	3	1	2	3	0
+stiripentol	DB09118	3	2	0	0	1
+norgestrel	DB09389	3	2	2	1	0
+ulipristal	DB08867	3	3	1	1	1
+naratriptan	DB00952	3	2	3	1	2
+diethylpropion	DB00937	3	2	3	2	2
+fluocinolone acetonide	DB00591	3	1	3	1	1
+alfacalcidol	DB01436	3	2	0	1	2
+malathion	DB00772	3	1	1	0	1
+lifitegrast	DB11611	3	1	3	2	2
+medroxyprogesterone acetate	DB00603	3	2	2	1	0
+prednisone	DB00635	3	2	2	1	1
+monobenzone	DB00600	3	0	0	0	3
+tolterodine	DB01036	3	1	2	0	2
+trovafloxacin	DB00685	3	1	1	0	1
+theobromine	DB01412	3	3	0	0	0
+piboserod	DB04873	3	0	3	0	0
+mersalyl	DB09338	3	3	0	0	0
+topotecan	DB01030	3	2	2	1	3
+timolol	DB00373	3	2	2	2	3
+oxaprozin	DB00991	3	2	3	2	2
+regadenoson	DB06213	3	1	3	1	3
+enoxacin	DB00467	3	1	2	0	0
+pholcodine	DB09209	3	3	0	0	0
+celiprolol	DB04846	3	2	0	3	2
+fluocinonide	DB01047	3	2	2	1	1
+gramicidin d	DB00027	3	0	0	0	3
+zolmitriptan	DB00315	3	2	3	1	2
+azelnidipine	DB09230	3	1	0	0	2
+rucaparib	DB12332	3	3	3	3	3
+isoniazid	DB00951	3	0	1	0	2
+acebutolol	DB01193	3	2	2	1	2
+pimavanserin	DB05316	3	2	1	1	2
+dienogest	DB09123	3	2	2	0	1
+plerixafor	DB06809	3	1	3	1	2
+dimethyltryptamine	DB01488	3	3	1	0	0
+gliclazide	DB01120	3	1	1	0	1
+aprepitant	DB00673	3	1	2	1	2
+mycophenolic acid	DB01024	3	2	3	2	2
+lonidamine	DB06266	3	2	1	0	0
+simvastatin	DB00641	3	3	1	1	1
+guaiacol	DB11359	3	1	0	0	2
+metipranolol	DB01214	2	2	2	2	2
+estrone sulfate	DB04574	2	2	0	1	2
+ivabradine	DB09083	2	0	1	0	2
+eprotirome	DB05035	2	2	1	1	0
+vilanterol	DB09082	2	1	1	1	2
+procarbazine	DB01168	2	1	1	0	0
+halofuginone	DB04866	2	2	0	0	0
+doxofylline	DB09273	2	2	0	0	0
+medrysone	DB00253	2	1	2	1	1
+chlorzoxazone	DB00356	2	1	2	1	1
+pralidoxime	DB00733	2	2	1	1	1
+saxagliptin	DB06335	2	1	1	1	2
+varlitinib	DB05944	2	2	2	2	0
+talniflumate	DB09295	2	1	1	0	0
+cefalotin	DB00456	2	0	1	0	1
+letrozole	DB01006	2	0	2	0	0
+gamma hydroxybutyric acid	DB01440	2	2	0	0	0
+tenoxicam	DB00469	2	2	2	0	2
+demecarium	DB00944	2	2	0	1	1
+flurandrenolide	DB00846	2	1	2	1	1
+lipoic acid	DB00166	2	2	0	0	0
+gentamicin	DB00798	2	2	0	0	1
+cetirizine	DB00341	2	0	0	0	2
+trolamine salicylate	DB11079	2	2	0	0	0
+azacitidine	DB00928	2	1	2	2	2
+sodium tetradecyl sulfate	DB00464	2	2	1	0	0
+stannsoporfin	DB04912	2	2	0	0	0
+nalidixic acid	DB00779	2	0	1	0	1
+levonordefrin	DB06707	2	0	1	1	2
+alvespimycin	DB12442	2	1	2	0	0
+sulfisoxazole	DB00263	2	0	1	0	1
+anileridine	DB00913	2	1	1	2	1
+paramethasone	DB01384	2	1	2	0	0
+droxicam	DB09215	2	2	0	0	0
+oxamniquine	DB01096	2	0	2	0	0
+cinitapride	DB08810	2	2	0	0	0
+becocalcidiol	DB04891	2	2	1	1	0
+angiotensin ii	DB11842	2	1	2	1	0
+rosuvastatin	DB01098	2	1	1	1	2
+sodium stibogluconate	DB05630	2	1	1	0	0
+efonidipine	DB09235	2	1	0	0	2
+lomefloxacin	DB00978	2	1	1	0	0
+busulfan	DB01008	2	0	2	0	0
+dexrazoxane	DB00380	2	2	0	0	0
+bradanicline	DB06090	2	0	2	1	0
+lofexidine	DB04948	2	1	1	0	2
+fondaparinux sodium	DB00569	2	2	2	0	0
+amonafide	DB05022	2	2	2	0	0
+netupitant	DB09048	2	1	2	1	1
+azimilide	DB04957	2	2	0	0	1
+etoposide	DB00773	2	2	2	2	1
+naftifine	DB00735	2	1	1	0	1
+rimexolone	DB00896	2	1	2	1	1
+doxylamine	DB00366	2	2	0	0	0
+apixaban	DB06605	2	1	1	1	2
+tasimelteon	DB09071	2	2	2	2	2
+levallorphan	DB00504	2	1	1	2	1
+dihomo-gamma-linolenic acid	DB00154	2	2	1	0	0
+lumefantrine	DB06708	2	0	1	0	1
+amcinonide	DB00288	2	2	2	1	1
+7-ethyl-10-hydroxycamptothecin	DB05482	2	1	2	0	0
+tioconazole	DB01007	2	1	0	0	1
+equilin	DB02187	2	2	0	0	0
+itopride	DB04924	2	1	2	0	0
+allylestrenol	DB01431	2	2	0	0	0
+ethyl pyruvate	DB05869	2	2	0	0	0
+alosetron	DB00969	2	0	0	0	2
+levobetaxolol	DB09351	2	1	2	1	2
+oxprenolol	DB01580	2	2	2	2	2
+difluocortolone	DB09095	2	2	0	0	0
+hexafluronium	DB00941	2	1	0	1	1
+azilsartan medoxomil	DB08822	2	1	1	1	1
+arbaclofen placarbil	DB08892	2	2	2	2	0
+cilazapril	DB01340	2	1	1	2	1
+halcinonide	DB06786	2	1	1	1	1
+bisacodyl	DB09020	2	0	0	0	2
+ifosfamide	DB01181	2	1	1	0	0
+cholecalciferol	DB00169	2	1	2	1	1
+menthol	DB00825	2	2	0	0	1
+ethinamate	DB01031	2	2	1	0	0
+tranexamic acid	DB00302	2	1	2	1	1
+nicorandil	DB09220	2	1	0	0	1
+pirlindole	DB09244	2	2	0	0	0
+vigabatrin	DB01080	2	2	2	1	1
+metixene	DB00340	2	1	1	2	2
+cefazolin	DB01327	2	1	1	0	0
+metoprolol	DB00264	2	2	2	1	2
+iodine	DB05382	2	1	1	0	0
+enalaprilat	DB09477	2	2	1	1	1
+rasagiline	DB01367	2	2	1	1	1
+testosterone propionate	DB01420	2	1	1	1	2
+teniposide	DB00444	2	1	2	2	1
+ranitidine	DB00863	2	2	0	0	1
+lefradafiban	DB04863	2	2	0	0	0
+prasugrel	DB06209	2	0	2	0	0
+bromopride	DB09018	2	1	0	0	2
+olodaterol	DB09080	2	1	1	1	2
+seletracetam	DB05885	2	2	0	0	0
+chlorotrianisene	DB00269	2	1	2	1	2
+metolazone	DB00524	2	1	2	1	2
+pentosan polysulfate	DB00686	2	2	0	0	0
+oxandrolone	DB00621	2	1	2	1	1
+bromfenac	DB00963	2	1	2	2	2
+alanosine	DB05540	2	2	0	0	0
+esomeprazole	DB00736	2	1	1	2	2
+tesaglitazar	DB06536	2	2	2	2	0
+ambroxol	DB06742	2	0	0	0	2
+vorapaxar	DB09030	2	1	2	1	1
+cortisone acetate	DB01380	2	1	1	1	2
+terbutaline	DB00871	2	2	1	1	1
+diphenylpyraline	DB01146	2	1	0	0	2
+glycopyrronium	DB00986	2	1	2	0	0
+tizanidine	DB00697	2	2	1	1	2
+acemetacin	DB13783	2	2	0	2	2
+isopropamide	DB01625	2	0	1	1	1
+nepafenac	DB06802	2	2	2	2	2
+sitaxentan	DB06268	2	1	2	1	1
+raltitrexed	DB00293	2	1	1	1	2
+cinoxacin	DB00827	2	0	1	0	1
+cyclandelate	DB04838	2	2	0	0	0
+lopinavir	DB01601	2	0	1	0	1
+practolol	DB01297	2	1	2	0	1
+acetohydroxamic acid	DB00551	2	0	1	0	1
+alclofenac	DB13167	2	1	0	1	2
+aminolevulinic acid	DB00855	2	1	2	0	0
+desogestrel	DB00304	2	2	2	1	1
+frovatriptan	DB00998	2	1	2	1	2
+perindopril	DB00790	2	2	1	1	1
+guanadrel	DB00226	2	1	0	1	2
+bacitracin	DB00626	2	2	0	0	0
+lasofoxifene	DB06202	2	2	1	0	2
+wf10	DB05389	2	2	0	0	0
+miltefosine	DB09031	2	1	1	0	0
+tolazamide	DB00839	2	0	2	0	0
+pralatrexate	DB06813	2	2	1	1	1
+tasosartan	DB01349	2	2	1	1	1
+dexketoprofen	DB09214	2	0	0	2	2
+gabexate	DB12831	2	2	0	0	0
+indisulam	DB06370	2	0	2	0	0
+dezocine	DB01209	2	2	2	2	2
+l-tryptophan	DB00150	2	0	2	0	0
+rivastigmine	DB00989	2	2	2	2	2
+cystine	DB00138	2	2	0	0	0
+nandrolone phenpropionate	DB00984	2	1	1	1	2
+bentiromide	DB00522	2	1	2	0	0
+antipyrine	DB01435	2	2	0	1	0
+alclometasone	DB00240	2	1	2	0	1
+tiaprofenic acid	DB01600	2	2	1	0	2
+aminophenazone	DB01424	2	0	0	0	2
+he3286	DB05212	2	2	0	0	0
+plecanatide	DB13170	2	1	1	1	1
+bisoprolol	DB00612	2	2	1	1	2
+novobiocin	DB01051	2	0	2	0	0
+neostigmine	DB01400	2	1	1	1	2
+ramelteon	DB00980	2	2	2	2	2
+tetracycline	DB00759	2	2	0	0	0
+oxacillin	DB00713	2	0	0	0	2
+nafcillin	DB00607	2	0	2	0	0
+stanozolol	DB06718	2	0	1	1	2
+oxitriptan	DB02959	2	0	0	0	2
+febuxostat	DB04854	2	1	1	1	2
+metyrapone	DB01011	2	0	1	0	1
+mitiglinide	DB01252	2	1	1	0	0
+pentolinium	DB01090	2	1	1	1	1
+sulfacetamide	DB00634	2	0	1	0	1
+lubiprostone	DB01046	2	1	2	1	1
+zomepirac	DB04828	2	0	0	0	2
+gemeprost	DB08964	2	2	0	0	0
+ceftazidime	DB00438	2	0	2	0	0
+decitabine	DB01262	2	1	2	2	2
+omapatrilat	DB00886	2	2	1	0	2
+arbaclofen	DB08891	2	2	2	2	0
+quinestrol	DB04575	2	1	2	2	1
+loxoprofen	DB09212	2	0	0	0	2
+isoetarine	DB00221	2	2	1	1	1
+inosine	DB04335	2	1	1	0	0
+fingolimod	DB08868	2	1	1	1	1
+levamisole	DB00848	2	1	1	0	0
+lisinopril	DB00722	2	1	2	1	1
+amodiaquine	DB00613	2	1	0	0	1
+fenoterol	DB01288	2	2	1	1	1
+ospemifene	DB04938	2	1	2	2	1
+beclomethasone dipropionate	DB00394	2	1	1	1	2
+sulfadiazine	DB00359	2	0	0	0	2
+amifostine	DB01143	2	1	0	0	1
+amineptine	DB04836	2	2	0	0	0
+phenindione	DB00498	2	1	1	1	2
+aliskiren	DB09026	2	1	1	1	2
+azelaic acid	DB00548	2	0	2	0	0
+eplerenone	DB00700	2	1	1	1	2
+quinagolide	DB09097	2	2	1	0	0
+benzylpenicilloyl polylysine	DB00895	2	2	2	0	0
+zafirlukast	DB00549	2	0	0	0	2
+icatibant	DB06196	2	1	2	1	1
+etonogestrel	DB00294	2	2	2	1	2
+varespladib methyl	DB05737	2	2	2	2	0
+elsamitrucin	DB05129	2	2	0	0	0
+cilostazol	DB01166	2	1	2	1	2
+rifabutin	DB00615	2	2	0	0	0
+alverine	DB01616	2	1	0	2	0
+moxifloxacin	DB00218	2	1	1	0	0
+zenarestat	DB02132	2	1	2	0	0
+trilostane	DB01108	2	2	0	0	0
+dimethylthiambutene	DB01444	2	2	0	0	0
+dimethyl fumarate	DB08908	2	2	1	1	1
+dextrothyroxine	DB00509	2	2	2	2	2
+amprenavir	DB00701	2	0	1	0	1
+budesonide	DB01222	2	1	1	1	2
+goserelin	DB00014	2	1	2	0	1
+fleroxacin	DB04576	2	1	1	0	0
+chlormerodrin	DB00534	2	2	0	0	0
+apadenoson	DB05009	2	1	2	1	0
+voglibose	DB04878	2	1	1	2	1
+trioxsalen	DB04571	2	0	0	0	2
+capecitabine	DB01101	2	1	2	1	1
+liotrix	DB01583	2	2	0	0	0
+salsalate	DB01399	2	2	2	0	0
+bimatoprost	DB00905	2	2	1	0	0
+pamidronate	DB00282	2	1	2	1	1
+telaprevir	DB05521	2	0	1	0	1
+anisindione	DB01125	2	1	2	1	1
+nitroxoline	DB01422	2	1	0	0	1
+trimebutine	DB09089	2	2	0	0	0
+fenoxaprop-ethyl	DB05252	2	1	1	0	0
+baclofen	DB00181	2	2	2	2	2
+mirabegron	DB08893	2	0	1	0	2
+l-threonine	DB00156	2	2	0	0	0
+flucytosine	DB01099	2	1	0	0	1
+sulfamethoxazole	DB01015	2	1	1	0	0
+eritoran	DB04933	2	1	1	2	0
+ramipril	DB00178	2	2	1	1	1
+cupric chloride	DB09131	2	2	0	0	0
+methadyl acetate	DB01433	2	1	1	0	2
+betamethasone	DB00443	2	1	2	1	1
+abacavir	DB01048	2	1	2	0	0
+e-2012	DB05171	2	2	0	0	0
+tideglusib	DB12129	2	1	2	1	0
+thiamine	DB00152	2	2	0	0	0
+tipifarnib	DB04960	2	1	2	2	0
+bazedoxifene	DB06401	2	2	2	2	2
+anthralin	DB11157	2	2	0	0	0
+chlormezanone	DB01178	2	1	2	0	0
+arbutamine	DB01102	2	2	1	0	1
+echothiophate	DB01057	2	1	1	1	1
+depatuxizumab mafodotin	DB11731	2	2	0	0	0
+aminocaproic acid	DB00513	2	2	2	2	2
+rimonabant	DB06155	2	0	0	0	2
+paramethadione	DB00617	2	0	2	1	1
+ripasudil	DB13165	2	2	0	0	2
+abemaciclib	DB12001	2	2	2	2	0
+tolnaftate	DB00525	2	0	1	0	1
+imexon	DB05003	2	2	0	0	0
+bupranolol	DB08808	2	2	1	0	2
+guvacine	DB08848	2	2	0	0	0
+magnesium salicylate	DB01397	2	2	0	0	0
+pentagastrin	DB00183	2	1	2	0	1
+rolicyclidine	DB01549	2	2	0	0	0
+bleomycin	DB00290	2	2	0	0	0
+barnidipine	DB09227	2	1	0	0	2
+trimethaphan	DB01116	2	0	1	1	1
+streptozocin	DB00428	2	2	0	0	0
+ubidecarenone	DB09270	2	2	0	0	0
+carglumic acid	DB06775	2	1	2	1	1
+lobeglitazone	DB09198	2	1	0	0	2
+lornoxicam	DB06725	2	2	0	0	0
+cromoglicic acid	DB01003	2	2	0	0	0
+daunorubicin	DB00694	2	2	2	1	1
+dienestrol	DB00890	2	2	1	1	1
+fluorometholone	DB00324	2	1	2	1	1
+dydrogesterone	DB00378	2	1	2	1	1
+nadolol	DB01203	2	2	2	2	2
+methylprednisolone	DB00959	2	1	2	1	1
+morniflumate	DB09285	2	2	0	0	0
+snx-5422	DB06070	2	2	0	0	0
+tixocortol	DB09091	2	2	0	0	0
+diethylcarbamazine	DB00711	2	2	1	0	2
+cefixime	DB00671	2	0	1	0	1
+pefloxacin	DB00487	2	1	1	0	0
+valrubicin	DB00385	2	1	2	1	1
+linagliptin	DB08882	2	1	1	1	2
+dexlansoprazole	DB05351	2	2	2	2	2
+chloramphenicol	DB00446	2	1	0	0	1
+mycophenolate mofetil	DB00688	2	2	2	2	2
+vindesine	DB00309	2	1	1	0	1
+levamlodipine	DB09237	2	1	0	0	2
+flunisolide	DB00180	2	1	2	1	1
+moexipril	DB00691	2	2	1	1	1
+temsirolimus	DB06287	2	1	2	1	2
+choline magnesium trisalicylate	DB01401	2	2	0	0	0
+befunolol	DB09013	2	2	0	0	0
+deramciclane	DB06512	2	2	0	0	0
+licofelone	DB04725	2	2	2	0	0
+metronidazole	DB00916	2	1	1	0	0
+chlorphentermine	DB01556	2	0	0	1	2
+cefadroxil	DB01140	2	0	2	0	0
+cobicistat	DB09065	2	0	1	2	2
+riboflavin	DB00140	2	2	0	0	0
+atovaquone	DB01117	2	2	0	1	1
+levomefolic acid	DB11256	1	0	0	0	1
+elacytarabine	DB05494	1	1	0	0	0
+strontium ranelate	DB09267	1	0	1	0	0
+methoxsalen	DB00553	1	0	0	0	1
+methylscopolamine bromide	DB00462	1	1	0	0	0
+lumacaftor	DB09280	1	1	1	1	1
+fesoterodine	DB06702	1	1	1	0	1
+ronacaleret	DB05255	1	1	1	1	0
+lomustine	DB01206	1	1	0	0	0
+oxyphenonium	DB00219	1	1	1	1	1
+cinacalcet	DB01012	1	1	1	1	1
+cefuroxime	DB01112	1	0	0	0	1
+obeticholic acid	DB05990	1	1	1	1	1
+bosentan	DB00559	1	1	1	1	1
+fimasartan	DB09279	1	1	0	0	1
+arimoclomol	DB05025	1	1	0	0	0
+ticarcillin	DB01607	1	0	1	0	0
+carbetocin	DB01282	1	0	0	0	1
+erythrityl tetranitrate	DB01613	1	1	1	0	0
+gatifloxacin	DB01044	1	0	1	0	0
+latanoprost	DB00654	1	0	0	0	1
+irofulven	DB05786	1	1	0	0	0
+remikiren	DB00212	1	1	1	0	1
+pargyline	DB01626	1	1	1	1	1
+erdosteine	DB05057	1	0	1	0	0
+bimoclomol	DB06258	1	1	1	0	0
+naxifylline	DB06471	1	1	1	0	0
+sincalide	DB09142	1	0	0	0	1
+flucloxacillin	DB00301	1	0	0	0	1
+succinobucol	DB05399	1	1	0	0	0
+afamelanotide	DB04931	1	1	0	0	1
+metyrosine	DB00765	1	1	1	1	1
+peramivir	DB06614	1	0	1	0	0
+cr665	DB05155	1	1	0	0	0
+lobeline	DB05137	1	1	0	0	0
+radotinib	DB12323	1	1	0	0	1
+florbetaben (18f)	DB09148	1	1	0	0	0
+flutemetamol (18f)	DB09151	1	1	0	0	0
+medrogestone	DB09124	1	1	0	0	0
+methocarbamol	DB00423	1	1	1	1	1
+atrasentan	DB06199	1	1	1	1	1
+isatoribine	DB04860	1	1	1	0	0
+ethylmorphine	DB01466	1	1	0	0	0
+polythiazide	DB01324	1	1	1	1	1
+hexocyclium	DB06787	1	1	0	1	1
+latamoxef	DB04570	1	0	1	0	0
+ranirestat	DB05327	1	1	0	0	0
+darusentan	DB04883	1	1	1	1	0
+linezolid	DB00601	1	0	0	0	1
+thymectacin	DB05116	1	1	0	0	0
+tezosentan	DB06558	1	1	1	1	0
+amrubicin	DB06263	1	1	1	1	0
+cilastatin	DB01597	1	1	1	1	1
+anisotropine methylbromide	DB00517	1	1	1	0	1
+asimadoline	DB05104	1	1	1	0	0
+benazepril	DB00542	1	1	1	1	1
+ezatiostat	DB05460	1	1	1	1	0
+osanetant	DB04872	1	0	1	0	0
+deflazacort	DB11921	1	0	1	1	0
+hyoscyamine	DB00424	1	1	0	0	1
+clidinium	DB00771	1	1	0	0	1
+allopurinol	DB00437	1	0	1	1	1
+cimicoxib	DB05095	1	0	1	0	0
+pitavastatin	DB08860	1	1	1	1	1
+maraviroc	DB04835	1	1	1	1	1
+naloxegol	DB09049	1	1	0	1	1
+trabectedin	DB05109	1	0	0	0	1
+pinaverium	DB09090	1	1	0	0	0
+drostanolone	DB00858	1	1	1	0	0
+daclatasvir	DB09102	1	0	0	0	1
+sulfathiazole	DB06147	1	0	0	0	1
+carbocisteine	DB04339	1	1	0	0	0
+dolasetron	DB00757	1	0	0	0	1
+etelcalcetide	DB12865	1	1	1	1	1
+dinoprost tromethamine	DB01160	1	1	1	0	0
+floxuridine	DB00322	1	1	1	1	1
+piclidenoson	DB05511	1	0	1	0	0
+isothipendyl	DB08802	1	0	1	0	0
+oxibendazole	DB04910	1	1	0	0	0
+altropane	DB04947	1	1	0	0	0
+icotinib	DB11737	1	1	1	0	1
+abarelix	DB00106	1	0	1	0	0
+risedronate	DB00884	1	1	1	1	1
+metamizole	DB04817	1	1	0	0	0
+otamixaban	DB06635	1	1	1	0	0
+ly-517717	DB05713	1	1	1	0	0
+rolapitant	DB09291	1	0	1	1	1
+zanapezil	DB04859	1	1	0	0	0
+betrixaban	DB12364	1	1	1	1	0
+mequitazine	DB01071	1	0	0	0	1
+pralnacasan	DB04875	1	1	1	0	0
+biperiden	DB00810	1	1	1	1	1
+implitapide	DB04852	1	1	1	0	0
+enalapril	DB00584	1	1	1	1	1
+methyl aminolevulinate	DB00992	1	0	1	0	0
+tegafur-uracil	DB09327	1	1	0	0	0
+methsuximide	DB05246	1	1	1	1	1
+ethosuximide	DB00593	1	1	1	1	1
+pentostatin	DB00552	1	1	1	1	1
+didanosine	DB00900	1	1	0	0	0
+trifluridine	DB00432	1	1	0	0	0
+thonzonium	DB09552	1	1	0	0	0
+bitolterol	DB00901	1	1	0	1	1
+gallium maltolate	DB05420	1	1	0	0	0
+dalbavancin	DB06219	1	0	1	0	0
+finafloxacin	DB09047	1	1	0	0	0
+carboprost tromethamine	DB00429	1	0	1	0	0
+ecabet	DB05265	1	1	0	0	0
+loteprednol	DB00873	1	1	0	0	0
+saprisartan	DB01347	1	1	1	0	0
+t131	DB05490	1	1	0	0	0
+carbenicillin	DB00578	1	0	0	0	1
+enasidenib	DB13874	1	1	0	0	0
+esculin	DB13155	1	1	0	0	0
+dronabinol	DB00470	1	0	1	0	0
+cositecan	DB05806	1	1	0	0	0
+sodium chloride	DB09153	1	0	1	0	0
+topiroxostat	DB01685	1	1	0	0	1
+proflavine	DB01123	1	1	0	0	0
+terlipressin	DB02638	1	1	1	0	0
+vancomycin	DB00512	1	0	0	0	1
+troleandomycin	DB13179	1	1	0	0	0
+cetilistat	DB06586	1	1	1	0	1
+sonidegib	DB09143	1	1	1	1	1
+pyridoxine	DB00165	1	1	0	0	0
+ezetimibe	DB00973	1	1	0	0	0
+nitisinone	DB00348	1	1	1	1	1
+zucapsaicin	DB09120	1	1	1	0	1
+phenprocoumon	DB00946	1	1	0	1	1
+sitagliptin	DB01261	1	1	1	1	1
+cetrorelix	DB00050	1	1	0	0	1
+difenoxin	DB01501	1	0	0	1	1
+mevastatin	DB06693	1	1	1	0	0
+eliglustat	DB09039	1	1	1	1	1
+ppi-2458	DB05864	1	1	0	0	0
+calcidiol	DB00146	1	1	0	1	1
+fexofenadine	DB00950	1	0	0	0	1
+formaldehyde	DB03843	1	0	1	0	0
+ambrisentan	DB06403	1	1	1	1	1
+nitazoxanide	DB00507	1	0	0	0	1
+rivaroxaban	DB06228	1	1	1	1	1
+clocortolone	DB00838	1	1	0	0	1
+incadronic acid	DB06255	1	0	0	0	1
+selexipag	DB11362	1	1	1	1	1
+stavudine	DB00649	1	0	1	0	0
+phenoxypropazine	DB09251	1	0	0	1	0
+brasofensine	DB04857	1	1	0	0	0
+phenformin	DB00914	1	1	1	0	0
+gpi-1485	DB05814	1	1	0	0	0
+cp-122721	DB05421	1	1	0	0	0
+pheniprazine	DB09250	1	0	0	0	1
+clavulanate	DB00766	1	0	1	0	0
+nandrolone decanoate	DB08804	1	1	1	1	1
+idebenone	DB09081	1	0	0	0	1
+org-34517	DB05423	1	1	0	0	0
+ulobetasol	DB00596	1	1	0	0	0
+titanium dioxide	DB09536	1	1	0	0	0
+iodipamide	DB04711	1	0	1	0	0
+difluprednate	DB06781	1	1	1	1	1
+forasartan	DB01342	1	1	1	0	0
+dapsone	DB00250	1	0	0	0	1
+mepenzolate	DB04843	1	1	0	1	1
+benzocaine	DB01086	1	1	1	0	0
+aminoglutethimide	DB00357	1	1	1	1	1
+ambenonium	DB01122	1	1	1	1	1
+cerulenin	DB01034	1	1	1	0	0
+alfentanil	DB00802	1	1	1	1	1
+amyl nitrite	DB01612	1	1	0	0	0
+bifonazole	DB04794	1	0	0	0	1
+succimer	DB00566	1	0	1	0	0
+eflornithine	DB06243	1	1	1	1	1
+ularitide	DB05034	1	1	0	0	0
+streptomycin	DB01082	1	1	0	0	0
+rubitecan	DB06159	1	1	0	0	0
+chlorambucil	DB00291	1	0	0	0	1
+aclidinium	DB08897	1	1	1	0	0
+aminopterin	DB08878	1	0	1	0	1
+trospium	DB00209	1	1	1	0	1
+lgd2941	DB05234	1	1	1	1	0
+voacamine	DB04877	1	1	0	0	0
+alizapride	DB01425	1	1	0	0	1
+torcetrapib	DB06281	1	1	1	0	0
+tropicamide	DB00809	1	1	0	0	1
+sodium phosphate	DB09449	1	0	0	0	1
+bivalirudin	DB00006	1	1	1	1	1
+parachlorophenol	DB13154	1	1	0	0	0
+posaconazole	DB01263	1	0	0	0	1
+almitrine	DB01430	1	1	1	0	0
+cefpiramide	DB00430	1	0	1	0	0
+elacridar	DB04881	1	1	0	0	0
+edotecarin	DB04882	1	1	0	0	0
+temocapril	DB08836	1	1	0	0	1
+florbetapir (18f)	DB09149	1	1	0	0	0
+phylloquinone	DB01022	1	1	1	0	0
+uric acid	DB08844	1	1	0	0	0
+cycrimine	DB00942	1	1	1	1	1
+oxypurinol	DB05262	1	1	1	0	0
+nelarabine	DB01280	1	1	1	0	0
+anatibant	DB05038	1	1	1	1	0
+zosuquidar	DB06191	1	1	0	0	0
+aminohippuric acid	DB00345	1	0	0	0	1
+nitrofurantoin	DB00698	1	0	1	0	0
+tasquinimod	DB05861	1	0	1	0	0
+edoxaban	DB09075	1	1	1	1	1
+corticorelin ovine triflutate	DB09067	1	1	0	0	0
+potassium iodide	DB06715	1	0	0	0	1
+linaclotide	DB08890	1	1	1	1	1
+ivacaftor	DB08820	1	1	1	1	1
+vildagliptin	DB04876	1	1	1	1	1
+pyrantel	DB11156	1	1	0	0	0
+freselestat	DB03925	1	1	0	0	0
+quinapril	DB00881	1	1	1	1	1
+methantheline	DB00940	1	1	1	0	1
+trimetrexate	DB01157	1	1	1	0	1
+sacubitril	DB09292	1	1	1	1	1
+spirapril	DB01348	1	1	1	1	1
+gemifloxacin	DB01155	1	0	1	0	0
+dutasteride	DB01126	1	0	1	1	0
+nicergoline	DB00699	1	1	1	0	0
+piperazine	DB00592	1	1	0	0	0
+ceforanide	DB00923	1	0	1	0	0
+ciclopirox	DB01188	1	1	1	0	0
+cimetidine	DB00501	1	0	0	0	1
+ubenimex	DB03424	1	1	0	0	0
+iproniazid	DB04818	1	0	0	0	1
+fluvastatin	DB01095	1	1	0	0	1
+potassium nitrate	DB11090	1	1	0	0	0
+clobetasol propionate	DB01013	1	1	1	1	1
+indigotindisulfonic acid	DB11577	1	1	0	0	0
+magnesium carbonate	DB09481	1	1	0	0	0
+umeclidinium	DB09076	1	1	1	0	1
+lixisenatide	DB09265	1	1	1	1	1
+16-bromoepiandrosterone	DB05107	1	1	0	0	0
+bicalutamide	DB01128	1	1	1	1	1
+iron saccharate	DB09146	1	1	0	0	0
+banoxantrone	DB04975	1	1	0	0	0
+ibandronate	DB00710	1	1	1	1	1
+alogliptin	DB06203	1	1	1	1	1
+solabegron	DB06190	1	0	1	0	0
+forodesine	DB06185	1	1	1	1	0
+rilpivirine	DB08864	1	1	0	0	0
+zileuton	DB00744	1	1	1	1	1
+latanoprostene bunod	DB11660	1	0	1	0	0
+tolbutamide	DB01124	1	1	1	0	0
+cefonicid	DB01328	1	0	0	0	1
+tiomolibdate ion	DB05088	1	1	0	0	0
+czen 002	DB05479	1	1	0	0	0
+sulfoxone	DB01145	1	0	1	0	0
+tegafur	DB09256	1	1	1	0	0
+zanamivir	DB00558	1	1	0	0	0
+gadopentetate dimeglumine	DB00789	1	1	0	0	0
+clarithromycin	DB01211	1	1	0	0	1
+methacholine	DB06709	1	0	0	0	1
+nizatidine	DB00585	1	0	0	0	1
+lesopitron	DB04970	1	1	0	0	0
+tecadenoson	DB04954	1	1	1	1	0
+tiotropium	DB01409	1	1	1	0	0
+dactinomycin	DB00970	1	1	0	0	0
+chloroxylenol	DB11121	1	0	0	0	1
+teriflunomide	DB08880	1	1	1	1	1
+c31g	DB05398	1	1	0	0	0
+isometheptene	DB06706	1	1	0	0	0
+roxithromycin	DB00778	1	1	0	0	0
+paclitaxel docosahexaenoic acid	DB05297	1	1	0	0	0
+ljp 1082	DB05446	1	1	0	0	0
+pirenzepine	DB00670	1	1	1	0	1
+fosinopril	DB00492	1	1	1	1	1
+phenylbutyric acid	DB06819	1	0	1	0	0
+tipiracil	DB09343	1	1	0	1	1
+tetraethylammonium	DB08837	1	1	0	0	0
+clindamycin	DB01190	1	0	1	0	0
+ipratropium bromide	DB00332	1	1	0	0	1
+deferoxamine	DB00746	1	1	0	0	0
+isocarboxazid	DB01247	1	1	1	1	1
+olmutinib	DB13164	1	1	1	1	1
+toloxatone	DB09245	1	0	0	0	1
+carmustine	DB00262	1	1	1	1	1
+phenacetin	DB03783	1	1	0	0	1
+astaxanthin	DB06543	1	1	0	0	0
+ridogrel	DB01207	1	1	1	0	0
+firocoxib	DB09217	1	1	0	0	0
+chlorfenson	DB05377	1	0	1	0	0
+vismodegib	DB08828	1	1	1	1	1
+levosalbutamol	DB13139	1	1	0	1	1
+sodium acetate	DB09395	1	0	0	0	1
+cerivastatin	DB00439	1	1	1	1	1
+phenoxymethylpenicillin	DB00417	1	1	0	0	0
+mb-07803	DB05053	1	1	0	0	0
+voriconazole	DB00582	1	0	0	0	1
+methimazole	DB00763	1	0	1	0	0
+rupatadine	DB11614	1	1	0	0	0
+grepafloxacin	DB00365	1	0	0	0	1
+tolcapone	DB00323	1	1	1	1	1
+ajmaline	DB01426	1	1	0	0	0
+solifenacin	DB01591	1	1	1	0	1
+rosoxacin	DB00817	1	0	1	0	0
+glisoxepide	DB01289	1	0	1	0	0
+telithromycin	DB00976	1	0	0	0	1
+idarubicin	DB01177	1	1	1	1	1
+sr 140333	DB05790	1	1	0	0	0
+gliquidone	DB01251	1	0	1	0	0
+oteracil	DB03209	1	0	0	0	1
+demeclocycline	DB00618	1	0	0	0	1
+torasemide	DB00214	1	1	1	1	1
+entacapone	DB00494	1	0	1	1	1
+sodium bicarbonate	DB01390	1	0	1	0	0
+paricalcitol	DB00910	1	1	1	1	1
+ticagrelor	DB08816	1	0	1	0	1
+sodium citrate	DB09154	1	0	0	0	1
+camptothecin	DB04690	1	1	1	0	0
+cep-1347	DB05403	1	1	0	0	0
+fosaprepitant	DB06717	1	0	1	1	1
+tiagabine	DB00906	1	0	1	0	0
+macitentan	DB08932	1	1	1	1	1
+daglutril	DB05796	1	1	0	0	0
+tezacaftor	DB11712	1	1	1	1	0
+desoxycorticosterone pivalate	DB01134	1	1	1	1	1
+resiniferatoxin	DB06515	1	1	0	0	0
+dolutegravir	DB08930	1	0	1	0	0
+paromomycin	DB01421	1	0	1	0	0
+mitomycin	DB00305	1	0	1	0	0
+phensuximide	DB00832	1	0	1	1	1
+thiabendazole	DB00730	1	0	0	0	1
+ceruletide	DB00403	1	0	1	0	0
+formebolone	DB01569	1	1	0	0	0
+fencamfamine	DB01463	1	1	1	0	0
+opc-51803	DB05838	1	1	1	0	0
+procaterol	DB01366	1	1	0	0	1
+arundic acid	DB05343	1	1	0	0	0
+boceprevir	DB08873	1	0	1	0	0
+apatorsen	DB06094	1	1	0	0	0
+ethanolamine oleate	DB06689	1	1	0	0	0
+travoprost	DB00287	1	0	0	0	1
+acenocoumarol	DB01418	1	1	1	1	1
+meclizine	DB00737	1	1	1	0	0
+huperzine a	DB04864	1	1	0	0	0
+huperzine b	DB03348	1	1	0	0	0
+tranilast	DB07615	1	1	0	0	0
+phenylacetic acid	DB09269	1	0	0	0	1
+valsartan	DB00177	1	1	1	1	1
+trimethadione	DB00347	1	1	1	1	1
+inecalcitol	DB04796	1	1	1	1	0
+eldecalcitol	DB05295	1	1	0	0	1
+proguanil	DB01131	1	1	1	0	0
+magnesium acetate tetrahydrate	DB09409	1	1	0	0	0
+atazanavir	DB01072	1	0	0	0	1
+pravastatin	DB00175	1	1	1	1	1
+brivaracetam	DB05541	1	1	1	1	1
+enzalutamide	DB08899	1	1	1	1	1
+chloroxine	DB01243	1	0	0	0	1
+calcium chloride	DB01164	1	1	0	0	0
+pemoline	DB01230	1	0	0	0	1
+oxyphencyclimine	DB00383	1	1	1	1	1
+ritodrine	DB00867	1	1	1	0	1
+clobetasone	DB13158	1	1	0	0	0
+tetomilast	DB05298	1	1	0	0	0
+clopidogrel	DB00758	1	0	0	0	1
+fluticasone furoate	DB08906	1	1	1	1	1
+edaravone	DB12243	1	0	1	0	0
+spaglumic acid	DB08835	1	1	0	0	0
+imidafenacin	DB09262	1	1	0	0	1
+omacetaxine mepesuccinate	DB04865	1	1	0	0	0
+opc-28326	DB05461	1	1	0	0	0
+fluconazole	DB00196	1	0	0	0	1
+aspartame	DB00168	1	1	0	0	0
+conivaptan	DB00872	1	1	1	1	1
+carbinoxamine	DB00748	1	0	1	0	0
+doxercalciferol	DB06410	1	1	1	1	1
+eprosartan	DB00876	1	1	1	1	1
+flumethasone	DB00663	1	1	0	0	0
+propantheline	DB00782	1	1	1	1	1
+tridihexethyl	DB00505	1	1	1	1	1
+chromium	DB11136	1	1	0	0	0
+trandolapril	DB00519	1	1	1	1	1
+dihydrotachysterol	DB01070	1	1	0	1	1
+rescinnamine	DB01180	1	1	1	0	0
+tolvaptan	DB06212	1	1	1	1	1
+buclizine	DB00354	1	1	1	0	0
+indinavir	DB00224	1	0	0	0	1
+almotriptan	DB00918	1	1	1	1	1
+apalutamide	DB11901	1	1	1	1	0
+nilutamide	DB00665	1	1	1	1	1
+cevimeline	DB00185	1	1	0	0	1
+bethanechol	DB01019	1	1	1	0	1
+canfosfamide	DB04972	1	1	1	0	0
+docosanol	DB00632	1	0	1	0	0
+calusterone	DB01564	1	1	0	0	0
+elocalcitol	DB06194	1	1	0	0	0
+edetic acid	DB00974	1	0	0	0	1
+mebanazine	DB09248	1	0	0	1	1
+ampicillin	DB00415	1	1	0	0	1
+ciclesonide	DB01410	1	1	1	1	1
+homatropine methylbromide	DB00725	1	1	1	0	0
+finasteride	DB01216	1	0	1	0	0
+diphemanil methylsulfate	DB00729	1	0	1	0	0
+dimercaprol	DB06782	1	1	0	0	0
+alisertib	DB05220	1	1	1	1	0
+tifuvirtide	DB05413	1	1	0	0	0
+pradefovir mesylate	DB05478	1	1	0	0	0
+gimeracil	DB09257	1	1	0	0	1
+chlortetracycline	DB09093	1	0	0	0	1
+olmesartan	DB00275	1	1	1	1	1
+rifaximin	DB01220	1	1	0	0	0
+halofantrine	DB01218	1	1	0	0	1
+cefotaxime	DB00493	1	1	0	0	0
+trimetazidine	DB09069	1	1	0	0	0
+orciprenaline	DB00816	1	1	0	1	1
+etiprednol dicloacetate	DB05442	1	1	0	0	0
+dihydrocodeine	DB01551	1	0	0	1	1
+calcipotriol	DB02300	1	1	1	1	1
+dimetindene	DB08801	1	0	0	0	1
+levoleucovorin	DB11596	0	0	0	0	0
+lincomycin	DB01627	0	0	0	0	0
+efavirenz	DB00625	0	0	0	0	0
+pivmecillinam	DB01605	0	0	0	0	0
+ledipasvir	DB09027	0	0	0	0	0
+rolitetracycline	DB01301	0	0	0	0	0
+px-12	DB05448	0	0	0	0	0
+ceftolozane	DB09050	0	0	0	0	0
+ombitasvir	DB09296	0	0	0	0	0
+arbekacin	DB06696	0	0	0	0	0
+histrelin	DB06788	0	0	0	0	0
+penciclovir	DB00299	0	0	0	0	0
+delafloxacin	DB11943	0	0	0	0	0
+griseofulvin	DB00400	0	0	0	0	0
+netilmicin	DB00955	0	0	0	0	0
+sulfacytine	DB01298	0	0	0	0	0
+temafloxacin	DB01405	0	0	0	0	0
+udenafil	DB06267	0	0	0	0	0
+cyclacillin	DB01000	0	0	0	0	0
+cefoperazone	DB01329	0	0	0	0	0
+atp	DB00171	0	0	0	0	0
+carbimazole	DB00389	0	0	0	0	0
+cefprozil	DB01150	0	0	0	0	0
+tigecycline	DB00560	0	0	0	0	0
+felypressin	DB00093	0	0	0	0	0
+abt-510	DB05434	0	0	0	0	0
+tedizolid phosphate	DB09042	0	0	0	0	0
+tafluprost	DB08819	0	0	0	0	0
+mupirocin	DB00410	0	0	0	0	0
+tobramycin	DB00684	0	0	0	0	0
+retapamulin	DB01256	0	0	0	0	0
+antazoline	DB08799	0	0	0	0	0
+cidofovir	DB00369	0	0	0	0	0
+uracil mustard	DB00791	0	0	0	0	0
+tipranavir	DB00932	0	0	0	0	0
+famotidine	DB00927	0	0	0	0	0
+ceftobiprole	DB04918	0	0	0	0	0
+fluorescein	DB00693	0	0	0	0	0
+triptorelin	DB06825	0	0	0	0	0
+palonosetron	DB00377	0	0	0	0	0
+sulfamethazine	DB01582	0	0	0	0	0
+sulfadoxine	DB01299	0	0	0	0	0
+sulfaphenazole	DB06729	0	0	0	0	0
+bedaquiline	DB08903	0	0	0	0	0
+betahistine	DB06698	0	0	0	0	0
+suvorexant	DB09034	0	0	0	0	0
+vapitadine	DB05738	0	0	0	0	0
+luliconazole	DB08933	0	0	0	0	0
+calanolide a	DB04886	0	0	0	0	0
+tazobactam	DB01606	0	0	0	0	0
+sulfadimethoxine	DB06150	0	0	0	0	0
+cilansetron	DB04885	0	0	0	0	0
+elbasvir	DB11574	0	0	0	0	0
+meticillin	DB01603	0	0	0	0	0
+cephaloglycin	DB00689	0	0	0	0	0
+bacampicillin	DB01602	0	0	0	0	0
+azidocillin	DB08795	0	0	0	0	0
+valbenazine	DB11915	0	0	0	0	0
+osi-930	DB05913	0	0	0	0	0
+hetacillin	DB00739	0	0	0	0	0
+anidulafungin	DB00362	0	0	0	0	0
+ethionamide	DB00609	0	0	0	0	0
+calcium carbimide	DB09116	0	0	0	0	0
+methacycline	DB00931	0	0	0	0	0
+cefmenoxime	DB00267	0	0	0	0	0
+dantrolene	DB01219	0	0	0	0	0
+valaciclovir	DB00577	0	0	0	0	0
+spiramycin	DB06145	0	0	0	0	0
+an-9	DB05103	0	0	0	0	0
+ceftaroline fosamil	DB06590	0	0	0	0	0
+avobenzone	DB09495	0	0	0	0	0
+quinupristin	DB01369	0	0	0	0	0
+lactulose	DB00581	0	0	0	0	0
+ceftizoxime	DB01332	0	0	0	0	0
+butoconazole	DB00639	0	0	0	0	0
+faropenem medoxomil	DB05659	0	0	0	0	0
+virginiamycin m1	DB01669	0	0	0	0	0
+pantothenic acid	DB01783	0	0	0	0	0
+rifapentine	DB01201	0	0	0	0	0
+nafarelin	DB00666	0	0	0	0	0
+sofosbuvir	DB08934	0	0	0	0	0
+sulfamerazine	DB01581	0	0	0	0	0
+besifloxacin	DB06771	0	0	0	0	0
+dasabuvir	DB09183	0	0	0	0	0
+inositol nicotinate	DB08949	0	0	0	0	0
+etravirine	DB06414	0	0	0	0	0
+telbivudine	DB01265	0	0	0	0	0
+levmetamfetamine	DB09571	0	0	0	0	0
+pivampicillin	DB01604	0	0	0	0	0
+chloropyramine	DB08800	0	0	0	0	0
+dalfopristin	DB01764	0	0	0	0	0
+trapidil	DB09283	0	0	0	0	0
+cephalexin	DB00567	0	0	0	0	0
+wx-uk1	DB05476	0	0	0	0	0
+paritaprevir	DB09297	0	0	0	0	0
+caspofungin	DB00520	0	0	0	0	0
+sertaconazole	DB01153	0	0	0	0	0
+testolactone	DB00894	0	0	0	0	0
+micafungin	DB01141	0	0	0	0	0
+cefmetazole	DB00274	0	0	0	0	0
+formestane	DB08905	0	0	0	0	0
+azatadine	DB00719	0	0	0	0	0
+diphenhydramine	DB01075	0	0	0	0	0
+cefditoren	DB01066	0	0	0	0	0
+acipimox	DB09055	0	0	0	0	0
+propylthiouracil	DB00550	0	0	0	0	0
+denufosol	DB04983	0	0	0	0	0
+imipenem	DB01598	0	0	0	0	0
+alcaftadine	DB06766	0	0	0	0	0
+spectinomycin	DB00919	0	0	0	0	0
+nitrofural	DB00336	0	0	0	0	0
+fosfomycin	DB00828	0	0	0	0	0
+cloxacillin	DB01147	0	0	0	0	0
+empagliflozin	DB09038	0	0	0	0	0
+alimemazine	DB01246	0	0	0	0	0
+aceprometazine	DB01615	0	0	0	0	0
+rilapladib	DB05119	0	0	0	0	0
+bromodiphenhydramine	DB01237	0	0	0	0	0
+levocetirizine	DB06282	0	0	0	0	0
+ertugliflozin	DB11827	0	0	0	0	0
+rupintrivir	DB05102	0	0	0	0	0
+triprolidine	DB00427	0	0	0	0	0
+benzathine benzylpenicillin	DB09323	0	0	0	0	0
+cefpodoxime	DB01416	0	0	0	0	0
+obinepitide	DB05045	0	0	0	0	0
+ganirelix	DB06785	0	0	0	0	0
+sulfamethizole	DB00576	0	0	0	0	0
+mn-305	DB05339	0	0	0	0	0
+prucalopride	DB06480	0	0	0	0	0
+meclocycline	DB13092	0	0	0	0	0
+nystatin	DB00646	0	0	0	0	0
+dexchlorpheniramine maleate	DB09555	0	0	0	0	0
+amikacin	DB00479	0	0	0	0	0
+butylscopolamine	DB09300	0	0	0	0	0
+piperacillin	DB00319	0	0	0	0	0
+clomocycline	DB00453	0	0	0	0	0
+rifalazil	DB04934	0	0	0	0	0
+doripenem	DB06211	0	0	0	0	0
+ceftibuten	DB01415	0	0	0	0	0
+cinalukast	DB00587	0	0	0	0	0
+tetracosactide	DB01284	0	0	0	0	0
+amd-070	DB05501	0	0	0	0	0
+emedastine	DB01084	0	0	0	0	0
+lymecycline	DB00256	0	0	0	0	0
+telotristat ethyl	DB12095	0	0	0	0	0
+uc-781	DB05871	0	0	0	0	0
+adefovir dipivoxil	DB00718	0	0	0	0	0
+cefamandole	DB01326	0	0	0	0	0
+dexbrompheniramine	DB00405	0	0	0	0	0
+bismuth subcitrate	DB09275	0	0	0	0	0
+ceftriaxone	DB01212	0	0	0	0	0
+viomycin	DB06827	0	0	0	0	0
+benzylpenicillin	DB01053	0	0	0	0	0
+cangrelor	DB06441	0	0	0	0	0
+ciluprevir	DB05868	0	0	0	0	0
+fidaxomicin	DB08874	0	0	0	0	0
+ramosetron	DB09290	0	0	0	0	0
+histamine	DB05381	0	0	0	0	0
+cefotiam	DB00229	0	0	0	0	0
+foscarnet	DB00529	0	0	0	0	0
+cefdinir	DB00535	0	0	0	0	0
+vaborbactam	DB12107	0	0	0	0	0
+ganciclovir	DB01004	0	0	0	0	0
+sulbactam	DB09324	0	0	0	0	0
+lintitript	DB04867	0	0	0	0	0
+sorbitol	DB01638	0	0	0	0	0
+sulfametopyrazine	DB00664	0	0	0	0	0
+cefaclor	DB00833	0	0	0	0	0
+tesamorelin	DB08869	0	0	0	0	0
+simeprevir	DB06290	0	0	0	0	0
+fusidic acid	DB02703	0	0	0	0	0
+gts-21	DB05708	0	0	0	0	0
+amdinocillin	DB01163	0	0	0	0	0
+cefacetrile	DB01414	0	0	0	0	0
+phenindamine	DB01619	0	0	0	0	0
+lactic acid	DB04398	0	0	0	0	0
+deutetrabenazine	DB12161	0	0	0	0	0
+cefoxitin	DB01331	0	0	0	0	0
+volixibat	DB13914	0	0	0	0	0
+setiptiline	DB09304	0	0	0	0	0
+vx-702	DB05470	0	0	0	0	0
+meropenem	DB00760	0	0	0	0	0
+oxytetracycline	DB00595	0	0	0	0	0
+efinaconazole	DB09040	0	0	0	0	0
+dapagliflozin	DB06292	0	0	0	0	0
+clofedanol	DB04837	0	0	0	0	0
+roxatidine acetate	DB08806	0	0	0	0	0
+aciclovir	DB00787	0	0	0	0	0
+iopodic acid	DB09333	0	0	0	0	0
+methdilazine	DB00902	0	0	0	0	0
+dexloxiglumide	DB04856	0	0	0	0	0
+artesunate	DB09274	0	0	0	0	0
+degarelix	DB06699	0	0	0	0	0
+josamycin	DB01321	0	0	0	0	0
+azlocillin	DB01061	0	0	0	0	0
+cysteamine	DB00847	0	0	0	0	0
+talnetant	DB06429	0	0	0	0	0
+capravirine	DB08502	0	0	0	0	0
+dexpanthenol	DB09357	0	0	0	0	0
+rimantadine	DB00478	0	0	0	0	0
+bilastine	DB11591	0	0	0	0	0
+tripelennamine	DB00792	0	0	0	0	0
+valganciclovir	DB01610	0	0	0	0	0
+nabilone	DB00486	0	0	0	0	0
+posizolid	DB04850	0	0	0	0	0
+cefroxadine	DB11367	0	0	0	0	0
+sulfapyridine	DB00891	0	0	0	0	0
+pemirolast	DB00885	0	0	0	0	0
+sgs-742	DB05010	0	0	0	0	0
+kanamycin	DB01172	0	0	0	0	0
+levocabastine	DB01106	0	0	0	0	0
+canagliflozin	DB08907	0	0	0	0	0
+merimepodib	DB04862	0	0	0	0	0
+betazole	DB00272	0	0	0	0	0
+avibactam	DB09060	0	0	0	0	0
+bepotastine	DB04890	0	0	0	0	0
+grazoprevir	DB11575	0	0	0	0	0
+lamivudine	DB00709	0	0	0	0	0
+hydroxyzine	DB00557	0	0	0	0	0
+ertapenem	DB00303	0	0	0	0	0
+idoxuridine	DB00249	0	0	0	0	0
+loracarbef	DB00447	0	0	0	0	0
+gonadorelin	DB00644	0	0	0	0	0
+renzapride	DB04917	0	0	0	0	0
+ozenoxacin	DB12924	0	0	0	0	0
+cefepime	DB01413	0	0	0	0	0
+propylhexedrine	DB06714	0	0	0	0	0
+amibegron	DB05395	0	0	0	0	0
+famciclovir	DB00426	0	0	0	0	0
+acrivastine	DB09488	0	0	0	0	0
+velpatasvir	DB11613	0	0	0	0	0
+metiamide	DB08805	0	0	0	0	0
+bevirimat	DB06581	0	0	0	0	0
+aztreonam	DB00355	0	0	0	0	0
+avanafil	DB06237	0	0	0	0	0
