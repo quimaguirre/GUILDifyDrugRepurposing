@@ -196,7 +196,7 @@ def create_rscript(rscript, keyword, taxid, tissue, network, databases, scoring,
 
         if scoring in ['netscore', 'netcombo']:
             rscript_fd.write('submit.job(filt.result.table, species="{}", tissue="{}", network.source="{}", scoring.options = list({}=T, repetitionSelector={}, iterationSelector={}))\n'.format(taxid, tissue, network, scoring, repetitions, iterations))
-        elif scoring == netzcore:
+        elif scoring == "netzcore":
             rscript_fd.write('submit.job(filt.result.table, species="{}", tissue="{}", network.source="{}", scoring.options = list(netzcore=T, iterationSelector={}))\n'.format(taxid, tissue, network, iterations))
         else:
             rscript_fd.write('submit.job(filt.result.table, species="{}", tissue="{}", network.source="{}", scoring.options = list({}=T))\n'.format(taxid, tissue, network, scoring))
