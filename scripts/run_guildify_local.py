@@ -2,6 +2,7 @@ import sys, os, re
 import argparse
 import math
 import networkx as nx
+import numpy as np
 import operator
 from scipy.stats import fisher_exact
 from scipy.stats import hypergeom
