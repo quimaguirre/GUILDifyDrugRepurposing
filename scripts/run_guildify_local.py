@@ -156,7 +156,6 @@ def run_guildify_local(options):
     # Run GUILD
     for scoring_type, parameters_type in scoring_parameters.iteritems():
         output_scores_file = os.path.join(output_dir, "output_scores.txt.{}".format(scoring_type))
-        print(output_scores_file)
         if not fileExist(output_scores_file):
             score_command = decide_scoring_commands(scoring_parameters=scoring_parameters, scoring_short=scoring_type, networks_dir=networks_dir, output_dir=output_dir, guild_executable_path=options.guild_executable_path, diamond_executable_path=options.diamond_executable_path)
             print('GUILDIFY INFO:\tExecuting GUILD with the following parameters: Score={} / Parameters={}.\n'.format(scoring_type, parameters_type))
@@ -279,11 +278,8 @@ def create_seed_info_file(keywords, user_entity_to_values, gene_symbol_to_user_e
     # Get the user entities of the seeds
     seed_user_entity_ids = set()
     for keyword in keywords:
-        print(keyword)
         if keyword in gene_symbol_to_user_entity:
-            print(keyword)
             user_entities_keyword = gene_symbol_to_user_entity[keyword]
-            print(user_entities_keyword)
             for user_entity in user_entities_keyword:
                 seed_user_entity_ids.add(user_entity)
     # Write the output file containing information about each seed
@@ -1248,7 +1244,7 @@ def node_top_scoring(node_to_vals, threshold, output_file):
                 break
     f.close()
 
-    print('  DIANA INFO:\t{} file created.\n'.format(output_file))
+    print('GUILDIFY INFO:\t{} file created.\n'.format(output_file))
 
     return
 
@@ -1302,7 +1298,7 @@ def edge_top_scoring(network_file, node_to_vals, threshold, output_file):
 
     f.close()
 
-    print('  DIANA INFO:\t{} file created.\n'.format(output_file))
+    print('GUILDIFY INFO:\t{} file created.\n'.format(output_file))
 
     return
 
@@ -1338,7 +1334,7 @@ def functional_top_scoring(obodag, geneid2gos, all_nodes, top_nodes, output_file
     calculate_functional_enrichment_profile(obodag, geneid2gos, new_top_nodes, new_all_nodes, temp_file, output_file)
     #GOA.calculate_functional_enrichment_profile(obodag, geneid2gos, top_nodes, all_nodes, temp_file, output_file)
 
-    print("  DIANA INFO:\t%s file created.\n" %(output_file))
+    print("GUILDIFY INFO:\t%s file created.\n" %(output_file))
 
     return
 
