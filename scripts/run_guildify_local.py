@@ -21,7 +21,7 @@ def parse_user_arguments(*args, **kwds):
     Examples:
     python /home/quim/GUILDifyTools/scripts/run_guildify_local.py -i "TP53; BRCA1; BRCA2" -n /var/www/html/sbi/guildp/data/BIANA_phy/9606/all -o /home/quim/data/guildify_local_outputs/example -s netscore -re 1 -it 1 -t 9606 -ns BIANA_phy -ti all 
     python /home/quim/GUILDifyTools/scripts/run_guildify_local.py -i "TP53; BRCA1; BRCA2" -n /var/www/html/sbi/guildify2/data/BIANA/9606/all -o /home/quim/data/guildify_local_outputs/example_molt_simple_guildify2_quim -s netscore -re 1 -it 1 -t 9606 -ns BIANA -ti all 
-    python /home/quim/GUILDifyTools/scripts/run_guildify_local.py -i "TP53; BRCA1; BRCA2" -n /var/www/html/sbi/guildify2/data/BIANA/9606/all -o /home/quim/data/guildify_local_outputs/example_molt_simple_guildify2_diamond_quim -s diamond -re 1 -it 1 -t 9606 -ns BIANA -ti all 
+    python /home/quim/GUILDifyTools/scripts/run_guildify_local.py -i "TP53; BRCA1; BRCA2" -n /var/www/html/sbi/guildify2/data/BIANA/9606/all -o /home/quim/data/guildify_local_outputs/example_simple_guildify2_diamond -s diamond -re 1 -it 1 -t 9606 -ns BIANA -ti all 
     python /home/quim/GUILDifyTools/scripts/run_guildify_local.py -i BRCA1 -n /var/www/html/sbi/guildp/data/BIANA_phy/9606/all -o /home/quim/data/guildify_local_outputs/example_BRCA1 -s netscore -re 1 -it 1 -t 9606 -ns BIANA_phy -ti all 
     """
 
