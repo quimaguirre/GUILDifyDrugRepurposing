@@ -446,7 +446,7 @@ def create_output_file(networks_dir, output_dir, scoring_methods_short, user_ent
             score_combined(score_files, output_scores_file)
 
         # Create a NetworkX graph instance
-        network_instance = create_graph_instance(networks_dir, diamond=False)
+        network_instance = create_graph_instance(networks_dir, diamond)
 
         # Get the scores from the scores file
         values = []
@@ -1176,7 +1176,7 @@ def calculate_enrichment_of_top_nodes(networks_dir, output_dir, species, top_per
 
                 # Get the GeneIDs of the top nodes
                 top_geneIDs = set()
-                top_user_entity_id_to_values = get_top_scoring_ueids_and_values(networks_dir, output_file, percentage, diamond=diamond)
+                top_user_entity_id_to_values = get_top_scoring_ueids_and_values(networks_dir, output_dir, percentage, diamond=diamond)
                 for user_entity in top_user_entity_id_to_values:
                     if user_entity in user_entity_to_geneids:
                         for geneID in user_entity_to_geneids[user_entity]:
@@ -1539,7 +1539,7 @@ def parse_guild_scores_file(guild_scores_file):
     return user_entity_ranking, user_entity_to_geneids
 
 
-def get_top_scoring_ueids_and_values(networks_dir, output_file, percentage, diamond=False):
+def get_top_scoring_ueids_and_values(networks_dir, output_dir, percentage, diamond=False):
     """ 
     Parse top scoring nodes and their values.
     """
@@ -1659,8 +1659,8 @@ def create_network_json_file_for_cytoscapejs(network_json_file, percentage, netw
 
     # Parse the GUILD scores file
     output_file = os.path.join(output_dir, "guild_scores.txt")
-    top_user_entity_id_to_values = get_top_scoring_ueids_and_values(networks_dir, output_file, percentage, diamond=diamond)
-    all_nodes_to_values = get_top_scoring_ueids_and_values(networks_dir, output_file, 100, diamond=diamond)
+    top_user_entity_id_to_values = get_top_scoring_ueids_and_values(networks_dir, output_dir, percentage, diamond=diamond)
+    all_nodes_to_values = get_top_scoring_ueids_and_values(networks_dir, output_dir, 100, diamond=diamond)
 
     # Get the score of the user entities
     all_nodes_to_score = {}
@@ -1670,7 +1670,7 @@ def create_network_json_file_for_cytoscapejs(network_json_file, percentage, netw
 
     # Get network as a networkX graph, with combined of score from both sessions
     if not network_instance:
-        create_graph_instance(diamond)
+        create_graph_instance(networks_dir, diamond)
 
     # Get all shortest paths between all nodes
     all_shortest_paths_file = os.path.join(networks_dir, "all_shortest_paths.txt")
